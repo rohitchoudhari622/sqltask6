@@ -1,0 +1,670 @@
+id,Age,Course,Gender,CGPA,Stress_Level,Depression_Score,Anxiety_Score,Sleep_Quality,Physical_Activity,Diet_Quality,Social_Support,Relationship_Status,Counseling_Service_Use,Family_History,Chronic_Illness,Extracurricular_Involvement,Semester_Credit_Load,Residence_Type
+1,25,Others,Male,3.56,3,3,2,Good,Moderate,Good,Moderate,Married,Never,No,No,Moderate,17,On-Campus
+2,24,Engineering,Female,2.44,0,3,0,Average,Low,Average,Low,Single,Occasionally,No,No,Low,27,On-Campus
+3,19,Business,Female,3.74,4,0,3,Good,Low,Average,Moderate,In a Relationship,Occasionally,No,No,High,15,On-Campus
+4,19,Computer Science,Male,3.65,2,1,0,Average,Low,Average,Moderate,Single,Never,No,No,Moderate,20,Off-Campus
+5,18,Business,Male,3.4,3,3,4,Good,Low,Average,High,Married,Never,No,Yes,High,23,On-Campus
+6,21,Medical,Female,3.35,2,4,3,Good,Moderate,Good,High,Single,Never,No,No,Moderate,19,Off-Campus
+7,18,Law,Male,3.65,2,2,5,Good,Moderate,Average,Moderate,Single,Never,No,No,Moderate,20,Off-Campus
+8,21,Business,Female,3.4,0,3,3,Average,Low,Average,Low,Married,Never,Yes,No,Moderate,23,On-Campus
+9,24,Medical,Male,3.8,3,2,1,Poor,Low,Average,Moderate,Single,Never,Yes,No,Low,28,On-Campus
+10,19,Engineering,Female,3.05,2,5,0,Average,Moderate,Good,Low,In a Relationship,Occasionally,Yes,No,Moderate,27,Off-Campus
+11,23,Law,Female,3.74,3,2,4,Average,Low,Good,Moderate,In a Relationship,Occasionally,No,No,Moderate,22,Off-Campus
+12,28,Engineering,Female,,3,0,3,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,20,Off-Campus
+13,22,Computer Science,Male,3.19,1,1,3,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,High,17,On-Campus
+14,27,Medical,Male,3.26,3,2,2,Average,Moderate,Average,High,In a Relationship,Occasionally,No,No,Moderate,17,With Family
+15,24,Medical,Female,3.2,3,0,3,Average,Low,Poor,Moderate,Single,Occasionally,No,No,Moderate,18,On-Campus
+16,25,Law,Male,3.61,3,1,5,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,25,Off-Campus
+17,18,Medical,Female,3.85,4,1,3,Good,Low,Average,Moderate,Married,Never,Yes,No,Moderate,23,Off-Campus
+18,19,Medical,Male,3.26,5,1,1,Good,Low,Average,High,Single,Never,Yes,No,Moderate,29,With Family
+19,22,Computer Science,Male,3.46,3,1,0,Good,Moderate,Average,Moderate,In a Relationship,Frequently,No,No,High,29,Off-Campus
+20,20,Medical,Male,3.43,2,2,2,Good,High,Average,Low,Single,Never,No,No,Low,16,With Family
+21,20,Business,Male,3.38,5,3,2,Average,Moderate,Average,Low,Single,Never,No,No,Low,22,On-Campus
+22,27,Computer Science,Male,3.56,1,3,2,Good,High,Good,High,Single,Never,Yes,No,Moderate,17,On-Campus
+23,31,Medical,Female,3.5,4,5,2,Average,Moderate,Average,High,Single,Occasionally,No,No,High,17,Off-Campus
+24,18,Computer Science,Female,3.6,2,0,5,Good,Low,Average,Low,Single,Never,No,No,Low,25,On-Campus
+25,26,Law,Male,3.08,0,0,3,Average,Moderate,Poor,Low,Single,Never,Yes,No,Low,16,Off-Campus
+26,28,Others,Female,3.6,5,1,3,Good,Moderate,Average,High,In a Relationship,Never,No,No,Low,22,With Family
+27,35,Medical,Female,3.88,5,5,4,Good,High,Average,High,In a Relationship,Never,Yes,No,Moderate,29,Off-Campus
+28,24,Computer Science,Female,3.43,3,1,3,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Low,27,Off-Campus
+29,19,Others,Male,3.21,3,1,2,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,Moderate,18,Off-Campus
+30,22,Engineering,Female,3.62,3,2,1,Average,High,Average,Moderate,Single,Frequently,Yes,No,Low,24,On-Campus
+31,22,Engineering,Female,3.16,2,1,5,Good,Low,Average,Moderate,Single,Never,No,No,Low,21,On-Campus
+32,26,Computer Science,Female,3.71,3,1,2,Good,Moderate,Average,High,Single,Never,No,No,Low,22,On-Campus
+33,22,Law,Female,3.38,3,0,4,Average,Low,Good,Moderate,Single,Never,No,No,Moderate,16,With Family
+34,25,Engineering,Female,3.48,2,3,2,Average,Low,Poor,High,Single,Occasionally,No,No,Moderate,29,With Family
+35,26,Medical,Male,3.27,4,1,3,Good,High,Average,Moderate,Single,Occasionally,No,No,Moderate,28,With Family
+36,18,Computer Science,Male,3.41,3,1,1,Average,High,Average,Low,In a Relationship,Frequently,Yes,No,Low,15,With Family
+37,18,Law,Male,3.22,4,0,5,Good,Moderate,Average,High,Married,Occasionally,No,No,Low,19,Off-Campus
+38,19,Law,Male,3.16,3,3,4,Average,Moderate,Average,Moderate,Single,Never,Yes,No,Low,23,With Family
+39,19,Law,Female,3.71,0,3,3,Average,Moderate,Average,Moderate,Single,Occasionally,No,No,Low,18,Off-Campus
+40,23,Engineering,Female,3.65,2,5,1,Good,Moderate,Average,Low,Single,Never,Yes,No,Moderate,19,With Family
+41,21,Computer Science,Female,3.33,5,5,3,Good,Moderate,Average,Moderate,Married,Never,No,No,Low,22,With Family
+42,19,Law,Female,3.01,5,3,3,Good,High,Average,High,Single,Occasionally,No,No,High,29,Off-Campus
+43,30,Medical,Female,3.97,3,3,0,Good,Moderate,Good,Moderate,In a Relationship,Never,No,No,Moderate,26,With Family
+44,19,Law,Male,4,5,0,1,Good,Low,Poor,Moderate,Single,Never,No,No,Low,29,With Family
+45,22,Medical,Male,3.62,2,1,4,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,Low,18,With Family
+46,25,Medical,Female,3.63,4,4,1,Average,Moderate,Good,High,In a Relationship,Never,No,No,Low,18,Off-Campus
+47,22,Law,Female,2.99,2,0,4,Good,Low,Poor,Low,Single,Occasionally,Yes,No,Low,25,With Family
+48,35,Computer Science,Male,3.11,3,4,4,Good,Low,Average,Low,In a Relationship,Never,No,No,Moderate,19,On-Campus
+49,32,Engineering,Female,3.02,3,1,1,Good,Low,Average,Moderate,Married,Never,No,No,Moderate,25,With Family
+50,18,Law,Female,3.66,5,0,0,Good,Moderate,Average,High,Single,Never,Yes,No,Moderate,18,On-Campus
+51,27,Engineering,Male,3.09,1,2,2,Good,Moderate,Poor,Moderate,In a Relationship,Never,Yes,No,High,24,Off-Campus
+52,23,Medical,Male,,0,0,0,Good,Moderate,Average,High,Married,Occasionally,Yes,Yes,Low,22,Off-Campus
+53,20,Medical,Male,3.12,4,1,0,Average,Moderate,Poor,Moderate,Single,Occasionally,Yes,No,Moderate,21,On-Campus
+54,19,Computer Science,Female,3.82,2,5,0,Average,Low,Average,High,In a Relationship,Never,No,No,Moderate,23,On-Campus
+55,19,Medical,Female,3.23,4,4,1,Average,Moderate,Good,High,Single,Never,Yes,No,Low,27,On-Campus
+56,23,Business,Female,3.7,0,1,2,Average,Low,Average,Low,Single,Never,No,No,High,28,On-Campus
+57,26,Medical,Male,2.95,3,2,1,Good,Moderate,Poor,Moderate,In a Relationship,Never,No,No,Moderate,25,On-Campus
+58,22,Computer Science,Female,3.6,0,5,2,Average,Moderate,Good,Moderate,Single,Never,Yes,No,Low,24,Off-Campus
+59,29,Business,Male,3.73,5,5,4,Good,Moderate,Average,Moderate,Married,Never,No,No,Moderate,20,On-Campus
+60,22,Medical,Male,3.63,5,4,3,Good,Moderate,Average,Moderate,Married,Frequently,No,No,Moderate,26,Off-Campus
+61,23,Medical,Female,3.64,3,1,3,Good,Low,Good,Moderate,Married,Never,No,No,Moderate,24,Off-Campus
+62,25,Computer Science,Male,3.79,1,5,5,Poor,Moderate,Average,High,Single,Never,No,No,High,29,Off-Campus
+63,24,Engineering,Male,3.59,2,3,3,Average,Low,Poor,Low,Married,Occasionally,Yes,No,Low,24,Off-Campus
+64,24,Others,Female,3.62,3,2,0,Good,Low,Average,Low,Single,Never,No,No,Low,29,With Family
+65,20,Medical,Female,4,4,4,2,Average,High,Average,High,Single,Occasionally,No,No,Moderate,25,Off-Campus
+66,23,Medical,Female,3.34,4,0,0,Good,Low,Average,High,Single,Occasionally,No,No,High,24,Off-Campus
+67,22,Law,Male,3.59,3,3,3,Average,Moderate,Good,Moderate,Single,Never,No,No,Moderate,28,With Family
+68,27,Computer Science,Male,3.87,0,4,2,Good,High,Poor,Moderate,In a Relationship,Never,No,No,Moderate,16,Off-Campus
+69,24,Business,Female,4,2,1,0,Poor,Low,Average,High,Single,Never,Yes,No,Low,17,Off-Campus
+70,29,Medical,Male,3.24,4,0,4,Good,High,Average,Moderate,In a Relationship,Never,No,No,Moderate,24,Off-Campus
+71,29,Others,Female,3.82,2,5,4,Average,Moderate,Average,Moderate,Single,Never,No,No,Low,19,Off-Campus
+72,23,Business,Male,3.44,0,4,0,Average,High,Average,Low,Married,Never,No,No,Low,25,On-Campus
+73,26,Others,Female,3.09,3,1,1,Good,Low,Average,Moderate,Single,Never,No,No,High,24,Off-Campus
+74,27,Engineering,Male,3.1,2,1,5,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,Low,21,With Family
+75,20,Engineering,Male,,1,4,1,Poor,Low,Good,High,In a Relationship,Never,No,No,Moderate,27,On-Campus
+76,23,Medical,Male,3.25,3,4,0,Good,High,Poor,Moderate,Single,Occasionally,No,No,Moderate,21,Off-Campus
+77,19,Medical,Male,3.73,1,2,2,Good,High,Average,Moderate,Single,Never,No,No,Low,22,Off-Campus
+78,22,Engineering,Female,3.53,1,5,2,Poor,Moderate,Average,Low,Married,Frequently,Yes,No,Moderate,29,On-Campus
+79,21,Law,Male,3,2,1,4,Average,Moderate,Average,High,Single,Never,Yes,No,Moderate,23,With Family
+80,31,Others,Female,3.73,2,5,0,Good,Moderate,Average,Moderate,Single,Never,No,No,Moderate,18,On-Campus
+81,29,Law,Male,3.79,1,5,5,Average,Moderate,Average,Moderate,Married,Never,No,No,High,19,On-Campus
+82,28,Law,Female,4,0,1,4,Good,Moderate,Average,Moderate,Married,Never,Yes,No,Low,21,With Family
+83,24,Computer Science,Female,3.29,5,3,4,Good,Moderate,Average,Moderate,Single,Never,No,No,High,25,On-Campus
+84,24,Computer Science,Female,3,1,2,4,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,Low,27,Off-Campus
+85,19,Law,Female,3.46,1,4,4,Good,Low,Poor,Low,Single,Occasionally,No,No,Moderate,28,On-Campus
+86,24,Law,Male,2.98,2,2,4,Average,High,Poor,High,Single,Occasionally,No,No,Moderate,20,On-Campus
+87,19,Engineering,Female,3.29,2,0,5,Good,Low,Good,High,Single,Never,No,No,Low,26,On-Campus
+88,23,Law,Female,3.04,0,4,3,Average,Low,Good,Low,Single,Never,Yes,No,Low,21,With Family
+89,25,Computer Science,Female,4,0,3,3,Good,Moderate,Average,High,In a Relationship,Never,No,No,High,21,Off-Campus
+90,25,Law,Male,4,1,4,0,Poor,Moderate,Poor,Low,Single,Frequently,No,No,Low,28,With Family
+91,21,Computer Science,Female,3.51,1,3,0,Average,High,Average,Moderate,Single,Never,No,No,Moderate,24,On-Campus
+92,23,Medical,Male,3.6,0,5,0,Good,Moderate,Average,High,Single,Never,No,No,High,17,Off-Campus
+93,30,Medical,Male,4,5,1,4,Good,Moderate,Average,High,In a Relationship,Never,No,No,Low,25,Off-Campus
+94,23,Business,Male,3.75,3,2,2,Good,Low,Poor,Moderate,In a Relationship,Never,Yes,No,Low,28,Off-Campus
+95,18,Medical,Female,3.33,4,0,2,Average,Low,Average,Low,Single,Occasionally,No,No,High,27,On-Campus
+96,26,Law,Female,3.61,1,1,2,Poor,Low,Poor,Moderate,Married,Never,No,No,Moderate,15,Off-Campus
+97,21,Law,Male,4,1,0,4,Average,Low,Poor,Moderate,In a Relationship,Never,No,No,Low,24,Off-Campus
+98,22,Medical,Male,3.86,2,2,4,Average,Moderate,Poor,Moderate,Married,Occasionally,Yes,No,Low,28,Off-Campus
+99,19,Business,Male,3.12,2,1,2,Average,Moderate,Average,Low,Single,Never,No,No,Low,17,On-Campus
+100,25,Others,Male,3.78,5,5,1,Average,Moderate,Poor,Moderate,Single,Never,No,No,Low,25,On-Campus
+101,22,Medical,Female,3.77,5,4,3,Good,Moderate,Poor,High,Single,Never,Yes,No,Moderate,21,With Family
+102,19,Law,Male,3.72,4,2,2,Average,Low,Good,Low,Single,Never,No,No,Low,24,Off-Campus
+103,19,Medical,Male,3.26,3,2,4,Average,Moderate,Average,Low,Single,Frequently,No,No,High,24,On-Campus
+104,24,Medical,Female,3.45,2,2,3,Average,High,Good,Low,Married,Occasionally,No,No,Low,21,On-Campus
+105,22,Medical,Female,3.97,5,0,3,Good,Moderate,Poor,Moderate,Married,Occasionally,No,No,Low,21,Off-Campus
+106,24,Medical,Female,3.06,2,2,4,Poor,Moderate,Average,Moderate,Single,Never,No,No,Low,29,Off-Campus
+107,21,Medical,Female,3.05,4,0,4,Good,Low,Average,Moderate,In a Relationship,Occasionally,No,No,High,15,On-Campus
+108,28,Medical,Female,3.84,4,2,1,Good,Low,Poor,High,Married,Occasionally,No,No,Moderate,27,With Family
+109,27,Computer Science,Female,3.92,5,0,4,Average,High,Poor,Moderate,Single,Occasionally,Yes,No,Low,26,Off-Campus
+110,21,Medical,Female,3.43,1,1,3,Poor,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,23,On-Campus
+111,18,Computer Science,Male,3.53,3,4,1,Good,High,Average,Moderate,In a Relationship,Never,No,No,Low,18,Off-Campus
+112,23,Computer Science,Female,3.44,5,4,1,Good,Moderate,Average,Moderate,Single,Occasionally,No,No,Moderate,21,On-Campus
+113,18,Business,Female,3.71,0,1,2,Good,High,Average,Low,In a Relationship,Occasionally,No,No,Low,22,Off-Campus
+114,26,Computer Science,Male,3.01,2,5,1,Good,Moderate,Average,High,Married,Occasionally,No,No,Moderate,27,On-Campus
+115,26,Computer Science,Male,3.28,1,2,4,Average,Moderate,Good,Moderate,Single,Never,Yes,No,Moderate,25,Off-Campus
+116,27,Engineering,Female,4,4,4,2,Good,Moderate,Good,Low,In a Relationship,Never,No,No,Moderate,28,With Family
+117,23,Engineering,Female,2.86,2,5,3,Average,Moderate,Good,Moderate,In a Relationship,Never,No,No,Moderate,26,Off-Campus
+118,20,Engineering,Female,3.64,2,5,3,Average,Moderate,Average,Moderate,Single,Frequently,No,No,High,29,With Family
+119,23,Engineering,Female,3.1,0,3,0,Good,High,Good,High,Married,Never,No,No,Moderate,16,On-Campus
+120,22,Computer Science,Male,3.59,1,4,0,Poor,High,Good,Moderate,Married,Occasionally,No,No,High,28,Off-Campus
+121,28,Business,Female,3.12,4,1,2,Good,Low,Average,High,In a Relationship,Never,No,Yes,Moderate,28,On-Campus
+122,24,Engineering,Male,3.37,0,3,1,Good,Low,Average,Low,In a Relationship,Never,No,No,Moderate,26,With Family
+123,25,Computer Science,Male,3.78,4,4,0,Good,Moderate,Good,High,Single,Frequently,Yes,No,Low,22,On-Campus
+124,26,Medical,Female,3.62,4,1,2,Average,Low,Good,Moderate,Single,Frequently,No,No,Moderate,29,On-Campus
+125,25,Computer Science,Male,3.28,0,4,2,Good,Moderate,Average,Moderate,Married,Frequently,Yes,No,Moderate,28,Off-Campus
+126,24,Business,Male,3.64,2,3,1,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,Yes,No,Low,28,With Family
+127,19,Computer Science,Male,3.65,2,0,3,Good,Moderate,Average,Moderate,In a Relationship,Never,No,Yes,Moderate,21,Off-Campus
+128,21,Medical,Male,3.09,5,1,3,Average,High,Average,High,In a Relationship,Occasionally,Yes,Yes,Low,27,Off-Campus
+129,19,Medical,Male,3.75,0,1,0,Average,Low,Average,High,In a Relationship,Occasionally,Yes,No,Moderate,25,Off-Campus
+130,23,Medical,Male,3.77,2,3,5,Good,Moderate,Good,Moderate,Single,Never,Yes,No,Low,29,Off-Campus
+131,18,Engineering,Male,3.33,0,3,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Yes,No,High,16,With Family
+132,20,Law,Female,3.54,3,1,4,Average,Moderate,Average,Low,Single,Never,No,No,Low,17,With Family
+133,29,Business,Female,3.12,1,5,2,Good,Low,Average,Moderate,Single,Never,No,No,High,22,With Family
+134,21,Computer Science,Male,3.73,1,1,2,Average,Moderate,Average,Moderate,Married,Never,Yes,No,High,26,Off-Campus
+135,18,Law,Female,3.26,3,0,5,Good,Low,Average,Low,Married,Never,No,No,Moderate,17,With Family
+136,24,Medical,Female,3.41,5,2,0,Average,Moderate,Good,Moderate,In a Relationship,Never,No,No,High,27,With Family
+137,18,Medical,Male,3.31,3,5,2,Average,Moderate,Average,Low,Single,Occasionally,No,No,Low,28,Off-Campus
+138,25,Computer Science,Female,3.51,1,5,4,Average,Moderate,Average,Low,Married,Frequently,No,No,Low,29,Off-Campus
+139,20,Engineering,Male,3.19,2,5,0,Average,Low,Average,Moderate,Single,Never,No,No,Moderate,25,On-Campus
+140,21,Medical,Female,3.72,3,3,2,Good,Moderate,Good,High,Single,Occasionally,No,No,Moderate,26,With Family
+141,19,Law,Female,3.94,5,0,5,Average,Moderate,Average,High,Single,Never,Yes,No,Low,29,Off-Campus
+142,21,Engineering,Male,3.9,1,3,3,Good,High,Good,Moderate,Married,Occasionally,Yes,No,Moderate,15,Off-Campus
+143,21,Medical,Female,3.52,3,0,5,Average,Low,Average,Low,Married,Never,No,No,Moderate,20,Off-Campus
+144,19,Medical,Female,3.32,0,0,4,Good,Low,Average,High,Single,Occasionally,No,No,Low,20,Off-Campus
+145,19,Business,Male,3.14,3,4,2,Average,High,Average,Low,Single,Never,Yes,No,Moderate,16,On-Campus
+146,21,Engineering,Female,3.26,1,2,1,Poor,Moderate,Average,Moderate,Married,Never,No,No,High,22,With Family
+147,19,Business,Male,3.37,2,0,3,Good,Moderate,Average,Moderate,Single,Never,Yes,No,High,19,Off-Campus
+148,24,Engineering,Female,3.63,4,4,1,Average,Moderate,Good,Moderate,Married,Never,No,No,High,26,On-Campus
+149,24,Computer Science,Male,3.5,2,4,3,Good,Low,Average,High,Single,Never,No,No,High,29,On-Campus
+150,27,Medical,Female,3.84,4,1,2,Good,High,Average,Moderate,Single,Never,No,No,Low,23,On-Campus
+151,21,Computer Science,Male,4,1,1,2,Good,Moderate,Good,Low,Single,Never,Yes,No,High,16,On-Campus
+152,19,Medical,Male,3.68,4,5,3,Average,Moderate,Average,Moderate,Single,Occasionally,Yes,No,Moderate,27,On-Campus
+153,20,Law,Male,2.85,0,3,5,Average,Low,Average,Moderate,Single,Never,Yes,No,Moderate,29,Off-Campus
+154,18,Law,Female,3.7,5,1,2,Average,Low,Average,Moderate,Single,Never,No,No,Low,15,Off-Campus
+155,23,Others,Male,2.91,1,2,1,Good,Low,Average,Moderate,Married,Never,No,No,High,18,On-Campus
+156,27,Medical,Male,3.38,0,4,3,Good,Moderate,Average,Low,In a Relationship,Never,No,No,Low,22,Off-Campus
+157,30,Engineering,Male,3.41,1,3,1,Average,Moderate,Poor,Low,Single,Never,No,No,High,24,On-Campus
+158,26,Computer Science,Male,3.99,0,2,2,Average,High,Poor,Moderate,Married,Occasionally,No,No,Moderate,26,With Family
+159,20,Law,Male,3.81,5,1,2,Average,Low,Average,Low,Single,Occasionally,No,No,Moderate,27,With Family
+160,21,Medical,Female,3.07,1,5,0,Average,High,Poor,High,Single,Never,Yes,No,Moderate,23,With Family
+161,21,Engineering,Female,3.82,2,1,4,Good,Moderate,Average,Moderate,Single,Occasionally,No,Yes,Moderate,20,On-Campus
+162,26,Computer Science,Male,3.35,0,2,3,Average,Low,Average,High,Married,Never,No,No,Moderate,16,On-Campus
+163,21,Law,Male,3.71,0,5,3,Average,Moderate,Average,Moderate,Single,Occasionally,Yes,No,Moderate,27,With Family
+164,29,Business,Female,3.3,3,1,0,Good,Low,Good,Moderate,In a Relationship,Never,Yes,No,Low,23,On-Campus
+165,18,Medical,Male,3.48,2,1,0,Average,High,Poor,Moderate,Single,Occasionally,No,No,Moderate,28,On-Campus
+166,28,Law,Male,3.73,1,0,4,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,No,Yes,Moderate,26,On-Campus
+167,32,Law,Male,3.39,3,5,2,Average,Low,Poor,Moderate,Single,Never,Yes,No,Moderate,24,On-Campus
+168,27,Others,Male,3.42,1,5,3,Average,Low,Average,High,Single,Frequently,No,No,Moderate,21,Off-Campus
+169,26,Business,Female,3.55,1,3,5,Good,Low,Good,Low,Married,Never,No,No,Moderate,16,On-Campus
+170,22,Business,Male,2.94,2,5,4,Average,Low,Poor,Low,In a Relationship,Occasionally,No,No,Moderate,23,On-Campus
+171,20,Medical,Male,3.25,5,1,4,Good,Moderate,Average,Low,Single,Frequently,Yes,No,Low,25,Off-Campus
+172,18,Medical,Female,3.81,5,3,3,Average,High,Poor,Moderate,Single,Never,No,No,Low,20,On-Campus
+173,26,Law,Male,3.93,4,3,5,Poor,Low,Average,Moderate,Single,Never,No,No,Moderate,23,With Family
+174,21,Medical,Female,3.36,4,5,1,Average,Moderate,Good,High,Single,Never,No,No,Moderate,29,With Family
+175,19,Law,Female,3.12,1,3,5,Good,Moderate,Poor,Moderate,In a Relationship,Never,No,No,Moderate,25,With Family
+176,25,Medical,Female,3.87,5,3,2,Good,Low,Average,Low,Married,Never,No,No,Moderate,23,On-Campus
+177,20,Business,Female,3.67,4,2,0,Average,Low,Average,High,Single,Frequently,No,No,Moderate,29,Off-Campus
+178,18,Others,Female,3.39,3,0,3,Average,Moderate,Good,Moderate,Married,Occasionally,No,No,Moderate,29,On-Campus
+179,22,Medical,Male,3.91,4,2,2,Good,Low,Average,High,In a Relationship,Never,No,No,Low,28,On-Campus
+180,25,Medical,Male,3.8,2,3,5,Average,High,Good,Moderate,Single,Occasionally,No,No,Moderate,29,With Family
+181,24,Engineering,Male,3.56,3,3,1,Average,Moderate,Average,Low,Single,Never,Yes,No,Moderate,25,Off-Campus
+182,23,Medical,Male,3.49,4,1,4,Poor,Moderate,Average,High,Single,Never,No,No,Low,23,On-Campus
+183,24,Computer Science,Female,3.75,1,1,2,Average,Moderate,Good,High,Single,Never,No,No,Moderate,18,With Family
+184,20,Law,Male,3.06,0,5,3,Average,Moderate,Average,Moderate,Single,Never,Yes,Yes,Low,29,Off-Campus
+185,22,Computer Science,Male,3.43,2,4,0,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,Low,15,On-Campus
+186,24,Computer Science,Female,3.28,5,4,0,Good,Low,Average,High,Married,Never,No,No,Low,16,On-Campus
+187,22,Engineering,Male,3.11,3,2,3,Average,Moderate,Average,Moderate,Single,Never,No,No,High,19,On-Campus
+188,23,Others,Female,2.85,0,2,4,Average,Moderate,Good,Moderate,Single,Frequently,No,No,Low,22,On-Campus
+189,25,Law,Female,3.19,3,0,1,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,Moderate,26,On-Campus
+190,30,Computer Science,Female,3.8,2,2,3,Average,Moderate,Average,High,In a Relationship,Occasionally,No,No,Low,20,On-Campus
+191,22,Others,Male,3.58,2,1,4,Average,Low,Average,Moderate,In a Relationship,Occasionally,No,No,Low,16,Off-Campus
+192,18,Law,Female,3.61,1,3,0,Good,Low,Average,High,Single,Occasionally,Yes,No,Moderate,22,On-Campus
+193,25,Others,Female,3.11,0,1,5,Good,Moderate,Average,High,Married,Occasionally,Yes,No,Moderate,19,On-Campus
+194,19,Engineering,Female,3.71,2,2,2,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,27,With Family
+195,26,Law,Male,3.81,2,0,4,Poor,Low,Average,Moderate,Single,Never,Yes,No,High,29,Off-Campus
+196,32,Medical,Male,3.26,2,4,1,Good,Moderate,Average,Moderate,Single,Frequently,No,No,High,28,On-Campus
+197,22,Computer Science,Female,3.22,1,2,1,Average,Low,Good,Moderate,Single,Never,No,No,Moderate,18,On-Campus
+198,22,Engineering,Female,3.21,3,5,1,Good,Low,Poor,Moderate,In a Relationship,Occasionally,No,No,Moderate,27,With Family
+199,18,Medical,Male,3.6,4,0,2,Average,Low,Poor,Moderate,Single,Occasionally,No,Yes,High,25,Off-Campus
+200,19,Medical,Female,4,3,1,3,Good,Moderate,Average,High,Single,Never,No,No,Low,20,Off-Campus
+201,19,Medical,Female,3.34,1,0,4,Poor,Moderate,Average,High,In a Relationship,Occasionally,Yes,No,Low,26,On-Campus
+202,19,Law,Female,3.33,4,1,2,Average,Moderate,Poor,High,In a Relationship,Never,No,No,Moderate,29,Off-Campus
+203,26,Law,Female,3.5,0,1,1,Good,Low,Poor,High,Married,Never,No,No,Moderate,15,Off-Campus
+204,24,Computer Science,Male,3.13,2,5,0,Good,High,Good,Moderate,Single,Never,No,No,High,25,On-Campus
+205,27,Business,Male,3.69,2,0,3,Good,Low,Poor,Moderate,In a Relationship,Occasionally,No,No,Low,27,On-Campus
+206,22,Medical,Male,3.62,3,2,3,Good,High,Average,High,Single,Occasionally,Yes,No,Moderate,28,With Family
+207,31,Others,Male,3.08,0,0,0,Good,Moderate,Good,Moderate,Married,Occasionally,No,No,Low,22,On-Campus
+208,22,Medical,Male,3.98,4,2,1,Good,Low,Average,Moderate,Single,Never,No,No,Moderate,16,With Family
+209,26,Law,Male,3.47,3,3,2,Poor,Moderate,Average,Moderate,Single,Never,Yes,No,Low,21,Off-Campus
+210,19,Engineering,Female,3.47,1,2,1,Good,Low,Poor,High,Single,Frequently,Yes,No,Moderate,15,On-Campus
+211,24,Business,Female,3.49,5,2,2,Average,Moderate,Poor,High,Married,Never,No,No,High,28,Off-Campus
+212,27,Medical,Male,3.49,5,3,1,Good,Moderate,Good,High,In a Relationship,Occasionally,Yes,Yes,Moderate,22,On-Campus
+213,19,Business,Male,3.63,5,3,4,Good,Moderate,Average,Moderate,Single,Never,No,No,High,26,With Family
+214,29,Computer Science,Female,3.05,5,5,3,Average,High,Poor,Moderate,Married,Occasionally,Yes,No,Moderate,20,Off-Campus
+215,19,Medical,Female,2.98,5,1,1,Good,Moderate,Average,Low,Single,Never,No,No,Moderate,27,Off-Campus
+216,20,Medical,Female,3.28,4,1,1,Average,Low,Average,High,Single,Never,Yes,No,High,24,With Family
+217,22,Engineering,Female,3.24,3,0,3,Good,Low,Average,Moderate,In a Relationship,Never,No,Yes,Moderate,15,Off-Campus
+218,22,Medical,Female,2.92,2,5,0,Good,Moderate,Good,Low,Single,Never,No,No,Moderate,22,Off-Campus
+219,19,Law,Male,3.4,5,2,2,Good,Low,Average,Moderate,Single,Never,No,No,Moderate,26,Off-Campus
+220,25,Computer Science,Male,3.08,1,5,5,Average,Low,Poor,High,In a Relationship,Frequently,No,No,Moderate,20,On-Campus
+221,25,Medical,Male,3.91,2,5,2,Poor,High,Good,Moderate,Married,Never,Yes,No,Moderate,22,On-Campus
+222,28,Medical,Female,3.53,3,2,2,Good,High,Average,Moderate,Single,Never,Yes,No,Low,16,Off-Campus
+223,20,Law,Male,3.07,4,0,1,Poor,High,Average,High,Married,Never,Yes,No,Moderate,15,Off-Campus
+224,21,Computer Science,Male,3.82,1,4,1,Good,Low,Average,Low,Married,Never,No,No,Low,16,Off-Campus
+225,25,Engineering,Female,3.15,2,1,3,Average,Moderate,Good,Low,In a Relationship,Occasionally,No,No,High,29,With Family
+226,19,Business,Female,3.53,3,2,5,Good,Moderate,Average,High,In a Relationship,Never,No,No,High,28,Off-Campus
+227,29,Computer Science,Female,3.39,5,1,0,Average,Moderate,Poor,High,In a Relationship,Occasionally,No,No,Low,23,Off-Campus
+228,31,Business,Male,3.38,4,2,3,Good,Moderate,Poor,Moderate,Married,Never,Yes,No,Moderate,15,Off-Campus
+229,19,Engineering,Female,2.79,0,1,4,Average,Moderate,Poor,Moderate,Single,Occasionally,No,No,Low,28,Off-Campus
+230,26,Business,Female,3.34,3,5,3,Good,High,Average,Low,In a Relationship,Occasionally,No,No,High,29,With Family
+231,22,Law,Female,3.24,3,0,1,Average,Low,Average,Moderate,In a Relationship,Never,Yes,No,Low,26,On-Campus
+232,30,Medical,Female,3.01,5,0,1,Good,Moderate,Good,Moderate,Single,Occasionally,No,No,Low,28,On-Campus
+233,22,Law,Female,3.7,3,0,4,Good,Moderate,Good,High,In a Relationship,Occasionally,Yes,No,Moderate,21,With Family
+234,24,Law,Male,3.52,0,3,4,Average,Moderate,Average,Moderate,Single,Never,No,No,Moderate,29,Off-Campus
+235,21,Business,Female,3.37,3,0,3,Average,High,Average,High,In a Relationship,Never,No,No,Low,28,Off-Campus
+236,21,Medical,Female,3.26,1,3,1,Average,Moderate,Average,Low,In a Relationship,Never,No,No,Low,17,Off-Campus
+237,21,Law,Male,3.35,2,2,0,Average,Low,Average,Low,Single,Never,No,No,Moderate,27,On-Campus
+238,21,Law,Female,3.63,2,1,2,Average,Low,Poor,High,Married,Occasionally,No,No,Low,20,Off-Campus
+239,26,Engineering,Female,3.63,5,5,0,Good,High,Average,Low,In a Relationship,Never,Yes,No,Moderate,21,On-Campus
+240,23,Medical,Male,3.63,1,4,3,Poor,Moderate,Average,Low,In a Relationship,Occasionally,No,No,Moderate,28,With Family
+241,18,Computer Science,Male,3.13,3,3,4,Average,Low,Average,High,Single,Occasionally,No,No,Moderate,29,On-Campus
+242,21,Others,Female,3.72,2,0,0,Good,Low,Average,Low,Single,Never,No,No,Moderate,24,Off-Campus
+243,26,Law,Male,3.49,0,0,3,Good,Low,Good,Moderate,Single,Never,No,No,Low,22,Off-Campus
+244,23,Business,Male,3.83,1,2,5,Good,Low,Good,Moderate,Single,Occasionally,No,No,Low,22,Off-Campus
+245,19,Business,Female,3.54,0,1,2,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,26,Off-Campus
+246,25,Medical,Male,3.93,3,2,2,Average,Low,Average,Moderate,Married,Never,No,No,Moderate,27,On-Campus
+247,22,Medical,Male,3.16,3,0,1,Average,Moderate,Poor,High,In a Relationship,Never,No,No,High,23,On-Campus
+248,26,Law,Male,3.23,0,4,5,Average,Moderate,Average,Moderate,Single,Never,No,No,Moderate,27,Off-Campus
+249,23,Law,Female,3.78,1,3,5,Average,Moderate,Good,Moderate,In a Relationship,Occasionally,No,No,Moderate,15,Off-Campus
+250,18,Medical,Male,3.84,1,3,1,Good,Low,Poor,Moderate,Married,Occasionally,No,No,Low,19,On-Campus
+251,20,Computer Science,Female,3.81,4,2,3,Average,Moderate,Average,Moderate,Single,Occasionally,Yes,No,Moderate,20,Off-Campus
+252,28,Law,Male,3.47,0,5,5,Good,Moderate,Average,Moderate,Single,Frequently,Yes,No,Moderate,27,With Family
+253,29,Others,Male,3.5,0,4,3,Good,Moderate,Average,High,Married,Never,No,No,High,25,On-Campus
+254,20,Engineering,Male,3.37,0,4,0,Good,Low,Average,High,Single,Never,No,No,Moderate,20,On-Campus
+255,18,Computer Science,Female,3.72,5,4,5,Average,High,Average,Low,Single,Never,Yes,No,Moderate,28,On-Campus
+256,19,Law,Male,3.6,0,0,1,Average,Moderate,Average,High,Married,Occasionally,No,No,Moderate,27,On-Campus
+257,24,Law,Male,3.42,1,2,2,Average,Moderate,Average,Moderate,Single,Never,No,No,Low,26,With Family
+258,20,Business,Female,3.79,2,2,1,Poor,Moderate,Average,High,Single,Never,No,No,Low,15,Off-Campus
+259,22,Law,Male,4,4,2,4,Average,Moderate,Average,Moderate,Married,Never,No,No,Moderate,20,Off-Campus
+260,20,Medical,Male,3.57,5,0,2,Good,Low,Good,Low,Married,Never,No,No,Moderate,27,Off-Campus
+261,21,Others,Male,3.14,3,4,0,Poor,Moderate,Average,Low,Single,Occasionally,No,No,Low,22,With Family
+262,21,Others,Female,3.86,5,1,1,Good,Moderate,Average,Moderate,Single,Frequently,Yes,No,Moderate,22,On-Campus
+263,23,Engineering,Female,3.37,0,4,2,Good,Low,Average,High,In a Relationship,Never,No,No,Moderate,16,On-Campus
+264,21,Computer Science,Male,3.3,0,4,1,Good,Moderate,Average,Moderate,Married,Never,No,No,High,17,On-Campus
+265,25,Business,Female,3.46,4,2,2,Good,Moderate,Average,Moderate,Single,Occasionally,No,No,Low,24,With Family
+266,26,Law,Male,3.6,2,2,2,Good,Low,Average,Moderate,In a Relationship,Never,No,No,Moderate,16,On-Campus
+267,35,Computer Science,Male,3.71,4,1,1,Good,High,Average,Moderate,Single,Frequently,Yes,No,Low,16,On-Campus
+268,26,Law,Female,3.19,3,5,1,Poor,Moderate,Average,Moderate,Married,Never,No,No,Low,17,Off-Campus
+269,28,Medical,Male,3.87,5,3,1,Average,High,Average,Low,Single,Never,Yes,No,Moderate,16,Off-Campus
+270,22,Medical,Male,3.07,3,0,1,Good,Moderate,Poor,Moderate,Married,Occasionally,No,No,High,16,On-Campus
+271,24,Computer Science,Female,3.15,1,3,2,Average,High,Average,Moderate,Single,Occasionally,No,No,High,18,Off-Campus
+272,20,Engineering,Male,3.56,2,5,3,Good,Low,Poor,Moderate,Single,Frequently,Yes,No,Moderate,22,Off-Campus
+273,21,Others,Male,3.22,4,0,3,Average,High,Good,High,Single,Frequently,No,No,Moderate,16,With Family
+274,18,Computer Science,Female,3.38,3,4,2,Good,High,Poor,Low,In a Relationship,Occasionally,Yes,No,High,29,With Family
+275,29,Business,Male,3.33,1,2,3,Average,High,Poor,Moderate,Single,Frequently,No,No,Low,19,On-Campus
+276,26,Law,Male,3.89,5,2,2,Poor,Moderate,Poor,Moderate,Single,Never,Yes,No,Moderate,29,Off-Campus
+277,20,Computer Science,Male,3.47,0,3,2,Good,Moderate,Good,Moderate,In a Relationship,Occasionally,No,No,High,28,On-Campus
+278,23,Engineering,Male,2.97,5,1,1,Good,Moderate,Average,High,Married,Frequently,No,No,Moderate,25,With Family
+279,24,Medical,Female,3.19,1,0,3,Good,Moderate,Average,Moderate,Single,Occasionally,No,No,High,15,On-Campus
+280,19,Engineering,Female,3.41,1,2,1,Good,Moderate,Good,High,Married,Never,No,No,Low,29,Off-Campus
+281,21,Others,Female,3.51,2,2,2,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Low,16,On-Campus
+282,22,Medical,Female,3.88,3,0,2,Average,Moderate,Average,Moderate,Single,Never,No,No,Low,26,Off-Campus
+283,21,Business,Male,3.21,3,1,3,Good,Moderate,Good,Moderate,In a Relationship,Occasionally,Yes,No,Low,18,On-Campus
+284,22,Business,Male,3.47,3,1,2,Average,High,Average,Moderate,Married,Occasionally,No,No,Moderate,28,Off-Campus
+285,22,Medical,Female,3.34,3,4,2,Good,High,Average,Moderate,Single,Occasionally,No,No,Moderate,16,On-Campus
+286,28,Medical,Male,3.68,2,1,5,Good,Moderate,Good,High,Married,Occasionally,No,Yes,High,21,Off-Campus
+287,26,Business,Male,3.56,2,2,5,Good,Moderate,Average,Moderate,Married,Never,Yes,No,High,18,On-Campus
+288,20,Law,Male,3.35,2,3,5,Good,Moderate,Poor,Moderate,Single,Occasionally,No,No,High,24,Off-Campus
+289,21,Law,Female,3.41,1,3,5,Average,Low,Average,Low,Single,Never,No,No,Moderate,23,On-Campus
+290,24,Others,Male,3.4,5,2,2,Good,High,Average,Low,Single,Frequently,No,No,Moderate,23,Off-Campus
+291,23,Computer Science,Male,3.5,2,5,3,Good,Moderate,Average,High,Single,Frequently,Yes,No,Moderate,15,Off-Campus
+292,20,Law,Male,4,2,2,1,Average,High,Good,Moderate,Single,Never,No,No,Moderate,24,On-Campus
+293,19,Others,Male,3.76,2,1,1,Good,Moderate,Good,High,In a Relationship,Never,No,No,High,27,With Family
+294,19,Medical,Male,3.66,3,0,2,Good,Moderate,Good,Moderate,Single,Never,No,No,High,18,On-Campus
+295,18,Law,Male,3.49,0,0,3,Poor,Moderate,Average,Moderate,Single,Never,No,No,Low,26,With Family
+296,24,Medical,Female,3.78,5,3,0,Poor,Low,Good,High,Single,Frequently,Yes,No,Low,26,Off-Campus
+297,25,Medical,Male,3.55,4,5,5,Good,Low,Average,High,In a Relationship,Occasionally,No,No,Low,28,On-Campus
+298,21,Computer Science,Female,3.83,2,3,2,Average,Low,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,17,On-Campus
+299,30,Medical,Male,3.54,5,5,0,Average,Low,Average,Moderate,Single,Occasionally,No,No,Moderate,18,Off-Campus
+300,19,Others,Male,3.17,0,4,1,Good,Low,Average,High,In a Relationship,Frequently,Yes,No,High,23,On-Campus
+301,19,Others,Male,3.65,1,0,0,Average,Low,Average,Moderate,Single,Occasionally,No,No,High,22,Off-Campus
+302,25,Others,Female,3.52,3,3,4,Average,Low,Poor,High,Single,Never,No,No,Moderate,29,Off-Campus
+303,30,Business,Male,2.86,5,3,0,Good,High,Average,Low,In a Relationship,Occasionally,Yes,No,Low,16,On-Campus
+304,27,Engineering,Male,3.76,4,2,1,Good,Moderate,Average,Moderate,Single,Occasionally,No,No,High,27,On-Campus
+305,25,Engineering,Male,3.4,0,0,5,Average,Low,Poor,High,In a Relationship,Never,No,No,Moderate,23,On-Campus
+306,28,Law,Female,3.07,4,2,0,Average,Low,Average,Moderate,Single,Never,Yes,No,Low,22,On-Campus
+307,22,Medical,Female,3.33,2,0,0,Good,Moderate,Good,Moderate,Single,Never,No,No,High,19,Off-Campus
+308,26,Computer Science,Male,3.4,0,2,5,Average,High,Poor,High,Single,Never,No,No,Low,18,With Family
+309,19,Engineering,Female,3.63,5,5,1,Average,High,Poor,Moderate,In a Relationship,Occasionally,No,No,Low,28,On-Campus
+310,23,Medical,Female,3.05,2,0,1,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,Low,23,On-Campus
+311,25,Engineering,Male,3.84,3,1,1,Good,High,Good,Moderate,Single,Never,Yes,No,High,21,Off-Campus
+312,22,Business,Female,3.65,2,4,2,Good,Moderate,Poor,Moderate,Single,Never,No,No,Moderate,20,Off-Campus
+313,24,Engineering,Female,3.93,1,0,1,Good,Moderate,Average,Low,Single,Never,Yes,No,Moderate,16,Off-Campus
+314,31,Others,Male,3.63,5,0,1,Average,Moderate,Good,Moderate,Married,Never,Yes,No,Moderate,22,Off-Campus
+315,28,Engineering,Female,3.28,0,2,1,Average,Low,Average,Moderate,In a Relationship,Frequently,No,No,High,23,On-Campus
+316,26,Medical,Male,3.25,1,1,4,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,21,Off-Campus
+317,18,Business,Female,3.69,5,2,0,Good,Low,Good,Moderate,Single,Never,No,No,Moderate,27,On-Campus
+318,26,Medical,Male,3.15,1,2,3,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,Low,25,Off-Campus
+319,18,Medical,Female,3.87,1,0,0,Good,High,Average,High,Single,Never,No,No,Moderate,29,Off-Campus
+320,29,Engineering,Male,3.34,3,1,4,Good,Moderate,Good,Moderate,In a Relationship,Occasionally,Yes,No,High,16,On-Campus
+321,21,Medical,Male,3.48,3,3,2,Average,Moderate,Average,Low,Single,Never,No,No,Moderate,24,Off-Campus
+322,21,Engineering,Female,3.4,3,1,5,Average,Moderate,Poor,Moderate,Single,Never,No,No,Low,15,Off-Campus
+323,19,Medical,Male,3.41,0,2,2,Good,Low,Good,Low,In a Relationship,Never,No,No,Low,21,On-Campus
+324,26,Computer Science,Female,4,3,5,0,Average,Moderate,Poor,High,In a Relationship,Never,No,No,Moderate,15,Off-Campus
+325,25,Law,Female,3.55,5,0,4,Good,Moderate,Average,High,In a Relationship,Never,Yes,No,Moderate,20,On-Campus
+326,24,Medical,Female,3.03,4,0,2,Good,Low,Poor,Moderate,Single,Frequently,No,No,Low,28,Off-Campus
+327,23,Computer Science,Male,3.54,1,5,2,Good,Moderate,Good,Moderate,In a Relationship,Occasionally,No,No,High,19,Off-Campus
+328,26,Medical,Male,3.45,5,2,0,Average,Low,Poor,Moderate,In a Relationship,Frequently,Yes,Yes,High,29,Off-Campus
+329,25,Others,Female,3.52,1,4,3,Good,High,Poor,High,Single,Never,No,No,Low,15,Off-Campus
+330,24,Law,Male,3.94,5,2,3,Good,Moderate,Good,High,Married,Occasionally,Yes,No,Moderate,27,On-Campus
+331,20,Medical,Female,3.42,5,0,2,Average,High,Poor,Low,Single,Never,Yes,No,Moderate,19,On-Campus
+332,29,Business,Female,3.29,3,1,4,Good,Low,Average,Moderate,In a Relationship,Occasionally,No,No,Moderate,23,Off-Campus
+333,19,Computer Science,Male,3.27,1,4,2,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,29,On-Campus
+334,25,Medical,Female,3.25,5,2,2,Average,High,Average,High,In a Relationship,Never,Yes,No,Moderate,18,On-Campus
+335,26,Others,Male,3.68,1,3,1,Good,High,Good,High,Single,Occasionally,No,No,Moderate,16,On-Campus
+336,21,Computer Science,Female,3.54,5,4,5,Good,High,Average,High,Single,Never,No,No,Low,25,With Family
+337,20,Medical,Female,3.6,2,2,0,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,22,On-Campus
+338,21,Others,Female,3.42,5,1,2,Good,Low,Average,Moderate,Single,Frequently,Yes,No,High,23,On-Campus
+339,21,Law,Female,3.44,2,3,3,Good,Moderate,Average,High,Single,Never,No,No,Moderate,22,With Family
+340,18,Computer Science,Female,3.37,1,5,2,Good,Moderate,Poor,Moderate,Married,Never,No,No,Low,29,With Family
+341,23,Engineering,Male,3.69,1,3,5,Average,Moderate,Average,Low,In a Relationship,Frequently,No,No,Moderate,19,With Family
+342,18,Engineering,Male,4,3,0,3,Poor,Low,Average,Low,Single,Never,No,No,High,17,Off-Campus
+343,26,Engineering,Female,3.08,4,2,3,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,27,On-Campus
+344,20,Computer Science,Female,3.13,0,4,3,Good,Moderate,Poor,Moderate,Married,Occasionally,Yes,No,Low,25,On-Campus
+345,24,Business,Female,3.72,3,4,1,Good,Low,Poor,Moderate,In a Relationship,Occasionally,No,No,Moderate,20,Off-Campus
+346,31,Medical,Male,3.49,4,4,0,Average,Low,Average,High,In a Relationship,Never,No,No,High,25,On-Campus
+347,27,Law,Female,3.82,0,3,1,Good,Moderate,Average,Moderate,Single,Occasionally,Yes,No,Moderate,19,Off-Campus
+348,26,Engineering,Female,3.58,0,2,0,Average,Low,Average,Moderate,Single,Never,No,No,Moderate,29,On-Campus
+349,20,Business,Female,3.22,3,3,4,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,24,On-Campus
+350,25,Law,Male,3.14,2,0,4,Good,Moderate,Average,High,Single,Occasionally,Yes,No,High,19,Off-Campus
+351,24,Medical,Male,3.32,4,0,0,Average,Low,Average,Moderate,In a Relationship,Never,No,No,Low,23,On-Campus
+352,23,Medical,Female,3.47,1,3,3,Good,Moderate,Average,High,In a Relationship,Never,No,No,Moderate,18,Off-Campus
+353,20,Business,Female,3.55,3,0,3,Good,Moderate,Poor,Moderate,In a Relationship,Occasionally,No,No,Moderate,19,On-Campus
+354,34,Engineering,Male,3.63,3,3,0,Good,Moderate,Average,Moderate,Single,Never,No,No,Moderate,25,Off-Campus
+355,22,Engineering,Female,3.43,2,1,1,Average,Low,Average,Moderate,Married,Never,No,No,High,27,Off-Campus
+356,28,Law,Male,3.29,1,2,4,Average,High,Poor,High,In a Relationship,Frequently,No,No,Low,27,On-Campus
+357,21,Medical,Male,3.64,3,0,3,Average,Low,Average,Moderate,In a Relationship,Frequently,No,No,Low,17,Off-Campus
+358,25,Law,Female,3.74,0,3,4,Average,High,Average,High,In a Relationship,Never,Yes,No,Moderate,27,With Family
+359,22,Engineering,Female,3.69,1,2,2,Average,High,Average,High,Single,Occasionally,No,No,Moderate,24,With Family
+360,24,Computer Science,Male,3.73,0,3,3,Good,Moderate,Poor,Low,Married,Frequently,Yes,No,Moderate,21,Off-Campus
+361,28,Medical,Male,3.5,3,3,0,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,High,24,On-Campus
+362,18,Engineering,Female,3.03,4,5,2,Average,Moderate,Good,Low,Single,Occasionally,No,Yes,Low,24,Off-Campus
+363,21,Engineering,Male,3.23,5,0,4,Average,Moderate,Poor,Moderate,In a Relationship,Never,No,No,Moderate,29,On-Campus
+364,22,Engineering,Male,3.65,0,3,4,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,Low,27,Off-Campus
+365,22,Computer Science,Female,3.82,0,3,1,Good,High,Average,Low,Single,Frequently,No,No,Low,23,On-Campus
+366,28,Medical,Female,3.69,2,2,5,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,High,22,Off-Campus
+367,24,Law,Male,3.97,2,2,3,Good,Moderate,Poor,Moderate,Single,Never,No,No,Moderate,17,On-Campus
+368,24,Business,Female,3.22,0,1,0,Good,Moderate,Average,Moderate,Single,Never,No,No,Moderate,18,On-Campus
+369,29,Medical,Female,3.93,2,1,2,Good,Moderate,Good,Moderate,Single,Never,Yes,No,Low,26,On-Campus
+370,18,Medical,Female,2.77,4,0,5,Average,Moderate,Good,High,Married,Never,No,Yes,Moderate,23,Off-Campus
+371,19,Medical,Male,3.24,4,4,5,Good,Moderate,Average,Low,Single,Occasionally,No,No,Moderate,23,On-Campus
+372,28,Law,Female,3.33,1,2,4,Poor,Moderate,Average,Moderate,Single,Never,No,No,Low,18,On-Campus
+373,20,Computer Science,Female,3.63,2,0,1,Good,Moderate,Average,High,Single,Occasionally,Yes,No,Low,21,On-Campus
+374,25,Medical,Female,3.6,1,5,1,Good,High,Good,Moderate,In a Relationship,Occasionally,No,No,Low,27,On-Campus
+375,26,Law,Male,3.3,1,3,5,Good,Moderate,Poor,Moderate,Single,Never,No,No,Low,18,Off-Campus
+376,27,Engineering,Male,3.54,2,2,3,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,High,18,Off-Campus
+377,31,Medical,Male,3.68,4,4,4,Average,Low,Poor,Low,In a Relationship,Never,No,No,Moderate,19,On-Campus
+378,21,Business,Male,3.73,3,3,2,Good,Moderate,Average,High,Married,Never,No,No,Moderate,27,On-Campus
+379,24,Others,Female,3.59,1,2,2,Average,Moderate,Good,Moderate,Single,Never,Yes,No,Moderate,23,On-Campus
+380,23,Others,Male,3.7,1,4,3,Average,High,Average,High,Married,Never,Yes,No,Moderate,27,Off-Campus
+381,29,Engineering,Female,3.49,4,0,4,Good,High,Average,High,Married,Never,No,No,Moderate,19,Off-Campus
+382,25,Others,Female,3.82,2,0,3,Good,Moderate,Average,Moderate,Single,Occasionally,No,No,Moderate,29,Off-Campus
+383,20,Medical,Male,3.19,2,0,2,Good,Moderate,Average,High,Single,Never,Yes,No,Moderate,28,On-Campus
+384,25,Law,Female,3.99,0,3,5,Average,High,Average,Low,In a Relationship,Occasionally,No,No,Moderate,21,With Family
+385,18,Business,Male,3.79,5,3,0,Good,Moderate,Average,Moderate,Married,Never,Yes,No,Moderate,26,With Family
+386,23,Computer Science,Female,3.31,2,3,3,Good,Moderate,Average,High,Single,Occasionally,Yes,No,Low,22,Off-Campus
+387,26,Medical,Female,3.73,3,1,3,Good,Moderate,Poor,Moderate,Single,Frequently,No,No,Moderate,16,With Family
+388,19,Medical,Female,3.23,4,3,2,Average,Low,Good,Moderate,In a Relationship,Never,Yes,No,Moderate,20,On-Campus
+389,24,Law,Female,3.45,5,1,5,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,21,With Family
+390,25,Computer Science,Female,3.37,2,3,2,Good,Low,Average,Moderate,Single,Occasionally,No,No,High,26,Off-Campus
+391,26,Computer Science,Female,2.87,3,3,3,Good,Moderate,Poor,Low,Single,Never,No,No,Moderate,27,On-Campus
+392,18,Business,Male,3.68,5,3,2,Average,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,21,With Family
+393,21,Law,Female,3.46,5,0,5,Average,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,17,Off-Campus
+394,19,Others,Male,3.47,3,0,2,Good,Moderate,Average,Moderate,Single,Frequently,No,No,Low,15,With Family
+395,20,Others,Male,3.45,0,5,1,Good,High,Average,Moderate,Married,Never,No,No,Low,17,Off-Campus
+396,21,Medical,Male,3.44,2,0,0,Average,Moderate,Good,Moderate,Single,Occasionally,No,No,Moderate,16,On-Campus
+397,26,Engineering,Female,3.11,4,4,1,Average,High,Good,Low,In a Relationship,Never,No,No,Moderate,16,Off-Campus
+398,25,Medical,Male,3.23,2,2,0,Good,Low,Average,Moderate,Married,Never,No,No,Low,27,On-Campus
+399,27,Law,Male,3.9,1,4,3,Good,Moderate,Good,Low,Single,Occasionally,No,No,High,24,Off-Campus
+400,21,Others,Male,2.87,1,3,0,Good,High,Average,High,Single,Frequently,No,No,Moderate,15,On-Campus
+401,24,Medical,Female,3.63,4,0,0,Poor,High,Average,Moderate,Single,Occasionally,Yes,No,High,27,On-Campus
+402,20,Computer Science,Male,3.49,2,4,0,Average,Moderate,Poor,Moderate,In a Relationship,Frequently,Yes,No,Moderate,21,Off-Campus
+403,25,Law,Male,3.7,2,3,0,Average,High,Poor,Moderate,Single,Occasionally,Yes,No,High,29,With Family
+404,23,Law,Male,2.91,1,0,3,Poor,Low,Good,Moderate,Single,Occasionally,No,No,High,22,Off-Campus
+405,30,Business,Male,3.79,3,5,2,Average,Low,Good,Moderate,Single,Never,No,No,Moderate,20,Off-Campus
+406,23,Law,Female,3.23,1,3,4,Good,High,Good,Moderate,Single,Occasionally,Yes,No,High,27,On-Campus
+407,33,Business,Male,3.12,3,4,1,Average,Moderate,Good,Moderate,Single,Never,Yes,Yes,Moderate,23,On-Campus
+408,33,Law,Male,3.49,0,2,3,Average,Low,Average,High,In a Relationship,Occasionally,No,No,Moderate,28,On-Campus
+409,25,Others,Female,3.93,3,0,0,Average,Low,Good,Low,Single,Never,No,No,High,21,With Family
+410,18,Engineering,Female,3.69,3,2,1,Good,Low,Average,Moderate,In a Relationship,Frequently,No,No,Moderate,26,On-Campus
+411,23,Medical,Female,2.64,4,0,0,Good,Moderate,Average,Moderate,Married,Occasionally,No,No,Low,15,On-Campus
+412,22,Business,Male,3.34,2,3,2,Average,Low,Poor,High,In a Relationship,Never,No,No,Moderate,24,With Family
+413,19,Others,Male,3.26,4,0,4,Average,Moderate,Poor,High,Married,Occasionally,No,No,High,24,Off-Campus
+414,28,Law,Female,3.41,3,1,0,Average,Moderate,Average,High,Married,Frequently,Yes,No,Moderate,19,On-Campus
+415,29,Medical,Female,3.57,1,2,4,Good,High,Average,Moderate,Single,Occasionally,No,No,High,16,Off-Campus
+416,18,Law,Male,3.52,3,1,5,Good,Moderate,Average,Low,Single,Never,No,Yes,Moderate,16,Off-Campus
+417,22,Medical,Female,3.33,4,3,0,Good,High,Poor,Moderate,Single,Occasionally,No,No,High,20,Off-Campus
+418,19,Business,Male,3.93,2,0,1,Average,Moderate,Good,High,Married,Never,No,Yes,Moderate,20,On-Campus
+419,22,Others,Male,4,0,1,4,Good,Low,Average,Moderate,In a Relationship,Never,No,No,Low,15,Off-Campus
+420,22,Business,Female,3.52,5,0,2,Good,High,Good,Moderate,Single,Frequently,No,No,Low,26,With Family
+421,35,Medical,Male,2.97,1,0,1,Good,Low,Poor,Moderate,Single,Frequently,No,No,High,23,With Family
+422,20,Law,Male,4,4,2,3,Average,High,Average,Moderate,Married,Occasionally,Yes,No,Low,20,With Family
+423,27,Others,Male,3.3,1,5,0,Good,Moderate,Average,Low,In a Relationship,Never,Yes,No,Moderate,15,Off-Campus
+424,22,Business,Male,3.17,2,2,3,Good,Low,Average,Moderate,Single,Occasionally,No,No,Moderate,28,With Family
+425,18,Medical,Female,4,3,0,0,Good,Moderate,Average,High,Married,Occasionally,No,No,Moderate,17,Off-Campus
+426,19,Engineering,Female,3.28,1,3,4,Average,High,Good,Moderate,Single,Never,No,No,Low,17,On-Campus
+427,27,Computer Science,Male,3.11,2,5,0,Average,High,Poor,High,Single,Never,No,No,Low,19,Off-Campus
+428,18,Medical,Male,3.5,3,3,5,Average,Moderate,Average,High,Single,Never,Yes,No,Moderate,26,With Family
+429,19,Engineering,Female,2.84,4,0,0,Good,Moderate,Poor,Moderate,In a Relationship,Occasionally,No,No,Moderate,29,Off-Campus
+430,18,Medical,Male,2.98,2,2,0,Good,High,Average,Low,Single,Never,No,No,High,20,On-Campus
+431,20,Law,Female,4,1,1,3,Average,Moderate,Average,Moderate,Married,Never,No,No,Moderate,17,Off-Campus
+432,22,Medical,Male,3.79,3,4,0,Good,Low,Average,Moderate,Single,Frequently,No,No,Moderate,29,On-Campus
+433,24,Engineering,Male,3.84,1,3,2,Good,Moderate,Average,Moderate,Married,Occasionally,Yes,No,High,27,On-Campus
+434,25,Others,Male,3.59,3,2,0,Good,Moderate,Average,High,In a Relationship,Occasionally,No,No,Moderate,17,Off-Campus
+435,19,Engineering,Male,3.24,1,3,1,Good,Moderate,Average,Moderate,Single,Never,No,No,Moderate,26,Off-Campus
+436,26,Medical,Female,3.77,3,2,0,Average,Moderate,Poor,High,In a Relationship,Occasionally,No,No,Moderate,29,Off-Campus
+437,21,Business,Female,3.3,2,5,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,16,Off-Campus
+438,23,Medical,Male,4,2,1,3,Good,Moderate,Average,Low,In a Relationship,Occasionally,Yes,No,Moderate,27,Off-Campus
+439,23,Engineering,Male,3.65,3,2,0,Good,Moderate,Good,High,Married,Occasionally,No,No,Moderate,17,On-Campus
+440,22,Computer Science,Female,3.55,1,5,1,Poor,Moderate,Good,Moderate,In a Relationship,Never,Yes,No,Moderate,15,On-Campus
+441,19,Others,Male,3.59,2,0,1,Good,High,Average,High,Single,Never,No,No,High,24,Off-Campus
+442,18,Business,Female,3.47,3,1,1,Average,Low,Average,Moderate,Single,Occasionally,No,No,Moderate,24,Off-Campus
+443,21,Medical,Female,3.67,3,2,2,Good,Moderate,Average,Low,Single,Never,Yes,No,High,19,Off-Campus
+444,22,Medical,Female,3.08,0,2,0,Average,Low,Poor,Low,Married,Never,No,No,Moderate,28,With Family
+445,21,Others,Male,3.39,2,0,5,Good,Moderate,Average,Moderate,Married,Occasionally,Yes,No,Low,15,Off-Campus
+446,18,Others,Female,3.5,0,0,5,Poor,Moderate,Average,Moderate,Single,Never,No,No,High,23,On-Campus
+447,28,Business,Female,3.48,3,5,1,Good,Moderate,Average,Moderate,Married,Never,No,No,High,26,Off-Campus
+448,21,Engineering,Female,3.32,5,4,1,Good,Low,Average,Moderate,Married,Never,No,No,Low,27,With Family
+449,22,Others,Female,3.97,3,4,0,Average,Low,Good,Moderate,In a Relationship,Never,No,No,Low,27,On-Campus
+450,18,Law,Male,3.56,1,0,5,Good,Moderate,Poor,Moderate,Single,Never,Yes,No,Low,29,With Family
+451,18,Medical,Female,2.88,5,0,3,Good,Moderate,Good,Low,Single,Occasionally,No,No,Low,25,Off-Campus
+452,35,Others,Male,3.42,4,1,3,Average,High,Average,High,In a Relationship,Never,No,No,Low,23,Off-Campus
+453,18,Business,Female,3.51,1,2,1,Average,Moderate,Average,Moderate,Married,Never,No,No,Low,28,Off-Campus
+454,22,Engineering,Female,3.83,0,4,0,Poor,High,Average,Low,Single,Never,No,No,Moderate,18,On-Campus
+455,25,Others,Male,4,0,2,3,Good,Low,Average,Moderate,Single,Never,No,No,Low,23,Off-Campus
+456,25,Others,Male,3.78,2,2,1,Good,Low,Average,High,Single,Never,No,No,Moderate,17,Off-Campus
+457,20,Medical,Male,3.46,0,1,1,Good,Low,Poor,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,23,On-Campus
+458,20,Law,Female,3.6,0,0,3,Good,High,Poor,High,Married,Occasionally,No,No,High,17,On-Campus
+459,27,Medical,Female,3.59,5,1,1,Good,Moderate,Poor,Moderate,Single,Never,Yes,No,High,22,Off-Campus
+460,26,Others,Female,3.23,4,1,1,Good,Moderate,Average,Low,Single,Never,Yes,No,Moderate,15,With Family
+461,18,Computer Science,Female,2.84,5,3,0,Average,High,Good,Moderate,Single,Never,No,No,High,18,On-Campus
+462,21,Engineering,Female,3.52,1,4,0,Good,Moderate,Average,Moderate,Married,Occasionally,Yes,No,High,20,Off-Campus
+463,18,Medical,Male,3.68,4,1,0,Poor,Moderate,Average,Moderate,Married,Never,Yes,No,Moderate,15,Off-Campus
+464,20,Medical,Male,3.59,1,5,0,Poor,Low,Average,Moderate,Married,Never,No,No,High,24,On-Campus
+465,20,Medical,Female,3.39,1,0,3,Average,Moderate,Good,Low,Single,Occasionally,No,No,Low,21,With Family
+466,26,Medical,Female,3.32,5,5,2,Good,High,Poor,Moderate,Single,Never,No,No,Moderate,15,With Family
+467,20,Computer Science,Female,3.25,4,4,2,Poor,Low,Average,Moderate,Single,Never,No,No,Low,25,On-Campus
+468,21,Others,Male,3.26,0,3,0,Average,Moderate,Good,High,In a Relationship,Never,No,No,Low,20,Off-Campus
+469,30,Engineering,Male,3.49,2,2,2,Good,Moderate,Average,High,In a Relationship,Never,Yes,No,Low,26,With Family
+470,25,Medical,Male,3.35,4,3,0,Average,Low,Average,Low,Single,Never,No,No,Moderate,16,Off-Campus
+471,19,Medical,Male,4,3,1,4,Average,Moderate,Good,Moderate,In a Relationship,Never,Yes,No,High,21,With Family
+472,18,Medical,Female,3.35,5,2,4,Poor,Low,Average,Low,In a Relationship,Never,Yes,No,High,18,Off-Campus
+473,24,Law,Male,3.3,3,1,2,Average,Low,Average,High,Single,Never,Yes,No,Moderate,21,On-Campus
+474,18,Medical,Male,3.89,4,2,0,Average,Moderate,Average,Moderate,In a Relationship,Never,No,No,High,18,Off-Campus
+475,20,Medical,Male,3.43,3,4,0,Good,Moderate,Poor,High,Married,Never,No,No,Low,20,With Family
+476,19,Medical,Male,3.64,4,3,3,Good,Low,Average,High,Single,Never,No,No,High,27,With Family
+477,24,Business,Male,3.49,0,4,2,Average,Low,Average,High,In a Relationship,Never,No,No,Moderate,21,Off-Campus
+478,27,Others,Female,4,1,2,5,Poor,Moderate,Average,Moderate,Single,Frequently,No,No,Low,24,On-Campus
+479,23,Medical,Female,3.99,1,1,3,Good,Low,Average,Moderate,Single,Never,No,No,Moderate,16,On-Campus
+480,25,Medical,Female,3.36,5,3,0,Average,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,19,On-Campus
+481,33,Business,Female,3.58,2,2,2,Good,Low,Average,Moderate,Single,Never,Yes,Yes,Moderate,18,Off-Campus
+482,21,Medical,Female,3.88,5,4,4,Good,High,Average,High,Single,Never,Yes,No,Low,15,On-Campus
+483,19,Others,Female,3.52,2,0,1,Good,Low,Poor,Moderate,Single,Occasionally,No,No,High,20,On-Campus
+484,23,Others,Female,4,3,4,4,Good,Moderate,Poor,Low,Single,Never,Yes,No,Moderate,28,With Family
+485,22,Law,Male,3.14,1,3,5,Good,Moderate,Good,Moderate,Married,Occasionally,No,No,Moderate,16,Off-Campus
+486,25,Computer Science,Male,2.8,2,4,3,Good,High,Good,High,Married,Never,No,No,High,24,With Family
+487,21,Medical,Male,3.4,2,0,4,Good,Moderate,Average,High,In a Relationship,Never,No,No,Moderate,21,With Family
+488,19,Computer Science,Female,3.55,4,5,3,Good,Moderate,Poor,Moderate,Single,Frequently,Yes,No,Moderate,27,Off-Campus
+489,20,Medical,Female,2.94,3,2,4,Average,Low,Good,Low,Single,Occasionally,Yes,No,High,18,Off-Campus
+490,19,Law,Female,3.75,4,2,3,Good,High,Average,Low,In a Relationship,Never,Yes,No,Moderate,25,With Family
+491,24,Computer Science,Male,3.73,3,2,3,Good,Low,Average,Moderate,Single,Never,No,No,Low,22,Off-Campus
+492,23,Law,Male,3.71,3,0,3,Good,High,Good,High,Single,Never,No,No,High,28,Off-Campus
+493,26,Others,Female,3.39,1,3,4,Good,Low,Average,Moderate,Single,Never,No,No,High,29,With Family
+494,32,Engineering,Male,3.03,1,2,1,Average,High,Average,High,Single,Occasionally,No,No,Moderate,29,With Family
+495,33,Computer Science,Male,3.51,1,5,1,Good,Moderate,Average,Low,Single,Occasionally,Yes,No,Moderate,19,On-Campus
+496,24,Others,Male,3.4,3,1,2,Average,Low,Average,Moderate,Single,Occasionally,No,No,Low,15,Off-Campus
+497,21,Law,Female,3.62,5,1,2,Good,High,Average,Moderate,In a Relationship,Never,No,No,Moderate,28,On-Campus
+498,24,Computer Science,Male,3.19,3,3,1,Good,High,Average,High,Single,Occasionally,Yes,Yes,Moderate,24,On-Campus
+499,23,Law,Male,3.47,3,2,2,Good,High,Average,High,In a Relationship,Never,No,No,High,28,On-Campus
+500,24,Law,Male,3.36,3,0,4,Good,High,Good,Moderate,In a Relationship,Never,Yes,No,High,17,Off-Campus
+501,28,Medical,Male,3.57,3,1,4,Good,High,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,18,With Family
+502,27,Engineering,Male,3.7,0,0,0,Good,High,Poor,Moderate,Single,Never,No,No,Moderate,24,Off-Campus
+503,26,Computer Science,Female,4,0,5,0,Poor,Moderate,Poor,Moderate,Single,Never,Yes,No,Moderate,17,On-Campus
+504,21,Computer Science,Female,3.75,2,4,0,Good,High,Average,Moderate,Single,Occasionally,No,No,Moderate,22,With Family
+505,33,Computer Science,Male,3.54,2,4,2,Good,Moderate,Good,Moderate,Single,Frequently,No,No,Moderate,23,With Family
+506,22,Medical,Female,4,5,0,4,Good,Low,Average,Moderate,Single,Occasionally,Yes,No,Moderate,15,Off-Campus
+507,20,Law,Male,3.69,2,2,5,Average,Low,Good,Low,Single,Never,No,No,Low,22,On-Campus
+508,26,Law,Male,3.21,0,0,5,Good,Moderate,Good,Moderate,Single,Never,No,No,Moderate,22,On-Campus
+509,21,Law,Male,3.37,2,3,1,Good,Moderate,Poor,Moderate,Married,Occasionally,No,No,Low,23,Off-Campus
+510,26,Business,Male,3.76,3,0,2,Good,High,Average,Moderate,In a Relationship,Frequently,No,No,Moderate,24,Off-Campus
+511,18,Medical,Male,3.78,3,4,2,Average,Low,Poor,Moderate,In a Relationship,Never,No,No,Moderate,15,On-Campus
+512,19,Medical,Male,3.5,1,1,2,Good,Moderate,Average,Low,Single,Never,Yes,No,High,29,Off-Campus
+513,24,Medical,Male,3.3,3,3,5,Good,Moderate,Average,High,Married,Occasionally,Yes,No,Low,29,On-Campus
+514,24,Medical,Male,3.49,3,3,5,Average,Low,Poor,High,In a Relationship,Occasionally,No,No,Moderate,24,On-Campus
+515,24,Medical,Female,3.49,4,1,2,Average,Low,Poor,Low,Single,Occasionally,No,No,Low,15,Off-Campus
+516,27,Medical,Female,3.33,1,2,2,Good,Low,Good,Moderate,In a Relationship,Frequently,No,No,Moderate,24,On-Campus
+517,22,Business,Female,3.72,1,4,0,Average,Low,Average,Moderate,Married,Never,Yes,Yes,Moderate,28,Off-Campus
+518,23,Medical,Female,3.51,5,3,1,Poor,Moderate,Average,Low,Single,Occasionally,No,No,Low,28,On-Campus
+519,18,Medical,Female,3.34,5,4,0,Average,Low,Good,Moderate,Single,Occasionally,No,No,Moderate,24,On-Campus
+520,20,Medical,Male,3.49,4,3,4,Good,Moderate,Good,Low,Single,Never,Yes,No,High,26,Off-Campus
+521,19,Medical,Female,3.54,4,1,3,Average,Low,Good,Moderate,Single,Never,No,No,Low,17,With Family
+522,24,Engineering,Female,3.61,4,1,0,Average,Low,Average,High,In a Relationship,Frequently,Yes,No,Low,15,Off-Campus
+523,18,Medical,Female,3.7,5,3,0,Good,Low,Average,Low,In a Relationship,Never,Yes,No,Low,23,Off-Campus
+524,26,Law,Female,2.95,3,1,3,Good,Low,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,19,Off-Campus
+525,20,Medical,Male,3.65,4,5,2,Average,High,Average,High,Married,Occasionally,No,No,Moderate,27,Off-Campus
+526,24,Law,Male,3.41,1,2,3,Good,High,Average,Moderate,Single,Occasionally,No,No,Low,28,Off-Campus
+527,25,Others,Female,3.75,2,4,2,Good,Moderate,Poor,Moderate,Single,Occasionally,No,No,Low,29,On-Campus
+528,19,Law,Male,3.94,3,4,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Yes,No,Moderate,18,Off-Campus
+529,19,Law,Female,3.67,3,0,1,Good,Moderate,Poor,Moderate,Single,Never,No,No,Moderate,21,On-Campus
+530,19,Medical,Male,3.46,0,2,5,Good,Moderate,Average,Moderate,Single,Frequently,No,No,Moderate,18,Off-Campus
+531,24,Others,Male,3.18,5,4,1,Poor,Moderate,Average,Low,In a Relationship,Never,No,No,Low,17,With Family
+532,24,Medical,Male,4,5,2,0,Average,Low,Average,Low,Married,Never,No,No,High,23,Off-Campus
+533,20,Business,Female,3.61,2,1,2,Good,High,Average,High,Single,Occasionally,No,No,Low,21,On-Campus
+534,20,Computer Science,Male,3.14,2,4,3,Good,Moderate,Average,Moderate,Single,Occasionally,Yes,No,High,18,With Family
+535,26,Medical,Male,3.22,1,2,3,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Low,18,Off-Campus
+536,21,Medical,Male,3.85,3,1,1,Good,High,Poor,Low,In a Relationship,Frequently,No,No,Moderate,20,On-Campus
+537,27,Medical,Male,2.88,4,1,2,Good,Low,Good,Low,Single,Never,No,No,Moderate,27,With Family
+538,24,Business,Male,3.89,2,3,3,Average,Moderate,Good,High,Single,Never,Yes,Yes,Low,25,On-Campus
+539,21,Law,Female,3.3,1,1,3,Average,Moderate,Average,Low,In a Relationship,Never,No,No,Moderate,25,On-Campus
+540,20,Law,Female,3.51,1,2,5,Average,Low,Average,Moderate,Single,Never,No,No,Moderate,20,With Family
+541,18,Others,Male,4,1,0,4,Good,High,Average,High,Single,Occasionally,No,No,High,25,On-Campus
+542,26,Others,Male,3.55,2,3,3,Good,High,Average,High,In a Relationship,Frequently,No,No,Moderate,26,On-Campus
+543,21,Engineering,Male,3.15,1,4,0,Good,High,Average,Moderate,Single,Never,Yes,No,Moderate,17,With Family
+544,25,Medical,Female,3.3,5,1,0,Average,Moderate,Average,High,Married,Never,No,No,Moderate,19,Off-Campus
+545,24,Others,Male,3.24,2,4,0,Good,Moderate,Poor,High,In a Relationship,Occasionally,No,No,Low,26,On-Campus
+546,19,Medical,Female,3.67,4,0,2,Poor,Moderate,Average,Low,Single,Occasionally,Yes,Yes,Low,20,On-Campus
+547,22,Medical,Female,3.36,4,5,1,Good,Moderate,Poor,Low,Married,Never,No,No,Low,27,On-Campus
+548,28,Medical,Male,3.75,2,2,3,Good,Moderate,Average,High,Single,Never,Yes,No,Moderate,20,On-Campus
+549,18,Law,Female,3.22,2,0,3,Good,Low,Average,Moderate,Married,Never,No,No,Low,20,Off-Campus
+550,18,Law,Male,2.89,1,3,5,Good,Low,Average,Low,Single,Occasionally,No,No,Moderate,28,Off-Campus
+551,19,Medical,Male,3.54,4,5,3,Poor,Moderate,Average,High,In a Relationship,Never,No,No,Low,22,With Family
+552,20,Medical,Male,3.71,5,5,2,Good,High,Good,Low,In a Relationship,Never,No,No,High,28,Off-Campus
+553,25,Medical,Female,3.23,3,1,0,Good,Low,Average,Low,Married,Never,No,No,High,19,Off-Campus
+554,24,Engineering,Female,3.79,3,3,3,Average,High,Average,Low,Single,Never,Yes,No,Low,28,With Family
+555,21,Law,Female,3.46,1,5,4,Good,Moderate,Poor,High,Single,Never,No,No,Moderate,15,Off-Campus
+556,22,Engineering,Female,3.37,1,0,1,Good,High,Good,Low,Married,Never,Yes,No,Moderate,19,Off-Campus
+557,20,Computer Science,Female,3.44,2,4,1,Good,Low,Good,Moderate,In a Relationship,Never,No,No,Low,23,Off-Campus
+558,18,Engineering,Female,3.34,5,1,0,Poor,Moderate,Average,High,Single,Never,Yes,No,High,26,On-Campus
+559,22,Medical,Female,2.82,2,2,2,Good,Low,Average,Moderate,Single,Never,No,No,High,28,Off-Campus
+560,26,Medical,Female,3.73,5,1,5,Average,Moderate,Average,High,Single,Never,No,No,High,23,With Family
+561,22,Medical,Male,2.98,0,1,0,Good,High,Average,High,Single,Never,Yes,No,Low,20,On-Campus
+562,28,Engineering,Male,3.31,5,1,2,Average,Moderate,Good,Moderate,In a Relationship,Never,No,No,High,20,Off-Campus
+563,25,Engineering,Female,4,1,2,5,Good,Moderate,Average,High,Single,Occasionally,No,No,High,15,On-Campus
+564,35,Law,Male,3.83,4,3,2,Good,Moderate,Average,High,In a Relationship,Occasionally,No,No,Moderate,28,Off-Campus
+565,25,Others,Male,3.21,1,1,0,Good,Moderate,Average,Moderate,In a Relationship,Never,No,No,High,20,On-Campus
+566,21,Others,Female,3.59,0,2,3,Average,Moderate,Poor,Moderate,Single,Never,No,No,High,25,Off-Campus
+567,20,Business,Female,3.65,3,1,5,Average,Low,Average,Moderate,Single,Occasionally,No,No,Low,15,With Family
+568,25,Others,Female,3.24,1,0,1,Average,Moderate,Poor,Moderate,Single,Occasionally,No,No,Moderate,17,On-Campus
+569,19,Business,Female,3.56,3,2,0,Poor,Moderate,Good,Moderate,In a Relationship,Never,No,No,Moderate,24,On-Campus
+570,21,Business,Male,3.09,0,1,2,Poor,Moderate,Average,Moderate,Single,Never,Yes,No,Low,29,Off-Campus
+571,31,Computer Science,Male,3.19,0,5,1,Average,High,Average,Moderate,In a Relationship,Occasionally,Yes,No,Moderate,27,Off-Campus
+572,22,Engineering,Male,3.57,2,4,2,Good,Low,Average,Low,Single,Never,Yes,No,Moderate,27,Off-Campus
+573,19,Computer Science,Female,3.01,3,2,2,Average,High,Poor,Moderate,Married,Never,No,No,Moderate,26,Off-Campus
+574,18,Engineering,Female,3.7,0,4,2,Good,High,Average,High,Married,Frequently,No,No,Moderate,17,With Family
+575,19,Medical,Female,3.78,0,5,3,Average,High,Average,Moderate,Single,Occasionally,No,No,Moderate,21,On-Campus
+576,20,Law,Female,4,3,2,5,Average,Moderate,Average,Moderate,In a Relationship,Never,No,No,Low,21,On-Campus
+577,22,Law,Female,3.63,3,4,1,Poor,High,Average,High,Single,Occasionally,No,No,Moderate,29,Off-Campus
+578,22,Others,Female,3.13,3,2,4,Good,Moderate,Poor,Moderate,Single,Never,No,No,Low,15,On-Campus
+579,25,Engineering,Female,3.55,1,0,3,Good,Low,Average,Moderate,In a Relationship,Never,Yes,No,Low,27,On-Campus
+580,23,Law,Female,3.02,1,4,5,Poor,Moderate,Average,High,Single,Occasionally,No,No,High,17,With Family
+581,26,Business,Female,2.97,1,4,0,Good,Moderate,Good,Moderate,Married,Never,No,No,Moderate,22,On-Campus
+582,22,Law,Female,3.38,0,4,3,Average,Moderate,Average,Moderate,Single,Never,No,No,Moderate,27,On-Campus
+583,22,Others,Female,2.73,3,1,1,Poor,Moderate,Average,Moderate,In a Relationship,Occasionally,No,Yes,Moderate,23,On-Campus
+584,21,Medical,Male,3.35,0,1,5,Good,Moderate,Average,High,In a Relationship,Occasionally,Yes,No,High,28,On-Campus
+585,18,Business,Male,3.26,1,1,3,Poor,Low,Average,High,Single,Never,No,No,Moderate,15,With Family
+586,30,Medical,Female,3.36,2,3,1,Average,Low,Average,Moderate,Single,Occasionally,No,No,Moderate,28,Off-Campus
+587,23,Business,Female,3.59,4,2,1,Good,Moderate,Good,Moderate,In a Relationship,Never,Yes,No,Low,19,Off-Campus
+588,20,Engineering,Female,3.3,1,5,0,Good,Low,Average,Moderate,Married,Frequently,No,No,Moderate,25,Off-Campus
+589,20,Medical,Female,3.33,1,2,0,Average,Moderate,Poor,Moderate,Married,Never,No,No,High,24,On-Campus
+590,25,Engineering,Female,3.64,0,3,1,Average,Low,Good,Low,Married,Occasionally,No,No,Moderate,25,Off-Campus
+591,24,Computer Science,Male,3.63,0,2,1,Average,Moderate,Poor,Low,Single,Occasionally,No,No,High,29,On-Campus
+592,19,Law,Male,3.53,5,3,1,Good,High,Good,Moderate,In a Relationship,Occasionally,No,No,Low,22,Off-Campus
+593,25,Medical,Female,3.89,4,2,1,Average,Low,Average,Low,Married,Frequently,No,No,Moderate,15,On-Campus
+594,26,Law,Male,3.12,4,1,2,Good,Moderate,Good,Moderate,Single,Never,No,No,High,28,On-Campus
+595,26,Computer Science,Female,2.92,3,3,3,Poor,Low,Poor,Moderate,Single,Never,No,No,Low,16,Off-Campus
+596,22,Law,Male,3.38,3,3,3,Average,Moderate,Good,Moderate,Single,Occasionally,Yes,No,Moderate,22,On-Campus
+597,24,Computer Science,Male,3.75,3,5,2,Good,Low,Poor,Low,In a Relationship,Never,No,No,Moderate,26,On-Campus
+598,18,Others,Male,3.34,1,3,3,Good,High,Average,High,Single,Never,No,No,Moderate,28,With Family
+599,20,Computer Science,Male,3.5,0,2,1,Average,Moderate,Poor,High,Single,Never,No,Yes,Low,18,Off-Campus
+600,22,Medical,Female,3.55,3,2,1,Average,Moderate,Good,Moderate,Single,Occasionally,No,No,Low,16,Off-Campus
+601,20,Computer Science,Female,3.84,3,5,2,Good,Moderate,Average,Low,In a Relationship,Never,No,No,Moderate,15,On-Campus
+602,28,Engineering,Male,3.33,0,0,4,Average,Moderate,Average,Moderate,Single,Occasionally,Yes,No,Low,18,On-Campus
+603,20,Law,Male,3.36,0,0,3,Good,Moderate,Good,High,Single,Occasionally,No,No,Moderate,23,With Family
+604,19,Business,Female,3.44,3,5,4,Average,Low,Average,Low,In a Relationship,Never,No,No,Low,24,Off-Campus
+605,31,Engineering,Female,3.11,1,2,2,Good,Moderate,Average,Low,Single,Never,Yes,No,High,21,On-Campus
+606,28,Others,Female,3.15,0,5,3,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,Moderate,28,On-Campus
+607,19,Medical,Female,3.78,4,2,0,Average,Low,Average,Moderate,Single,Never,No,No,High,28,Off-Campus
+608,22,Medical,Female,3.23,3,1,2,Average,Low,Average,Moderate,In a Relationship,Never,No,No,Moderate,27,Off-Campus
+609,18,Engineering,Male,3.28,3,1,2,Average,Moderate,Average,High,Single,Occasionally,No,No,Low,18,Off-Campus
+610,21,Others,Female,3.43,4,1,4,Good,High,Good,High,Married,Occasionally,No,Yes,Moderate,26,Off-Campus
+611,18,Computer Science,Female,2.88,5,3,2,Good,Low,Poor,High,In a Relationship,Never,No,No,Moderate,21,With Family
+612,18,Medical,Female,3.48,5,1,1,Good,Moderate,Average,Moderate,Married,Never,Yes,No,Moderate,15,Off-Campus
+613,21,Medical,Female,3.88,5,3,1,Good,High,Average,High,Single,Occasionally,Yes,No,Moderate,17,Off-Campus
+614,23,Medical,Male,3.5,3,0,1,Good,Moderate,Average,Moderate,Married,Occasionally,No,No,Low,15,On-Campus
+615,27,Medical,Female,4,5,3,4,Good,Low,Average,Moderate,Married,Occasionally,No,No,Low,29,On-Campus
+616,20,Medical,Female,3.51,1,5,4,Average,Moderate,Average,Low,In a Relationship,Occasionally,Yes,No,Low,19,Off-Campus
+617,20,Business,Female,3.16,0,0,2,Good,Low,Poor,Moderate,Married,Frequently,No,No,High,25,On-Campus
+618,23,Medical,Male,3.68,5,1,3,Good,High,Average,Moderate,Single,Frequently,No,No,High,15,With Family
+619,22,Law,Female,3.36,3,0,3,Poor,Low,Average,High,In a Relationship,Occasionally,No,No,High,29,With Family
+620,26,Computer Science,Male,3.09,1,5,2,Poor,Moderate,Average,High,Single,Never,No,No,Moderate,28,On-Campus
+621,23,Law,Male,3.78,3,4,3,Good,High,Average,Moderate,Single,Never,No,No,Moderate,24,On-Campus
+622,19,Law,Male,3.53,1,2,3,Good,Moderate,Good,Moderate,In a Relationship,Frequently,No,No,Moderate,27,On-Campus
+623,24,Engineering,Female,3.25,1,3,4,Average,Moderate,Average,Low,Single,Never,No,No,Moderate,27,On-Campus
+624,22,Medical,Male,3.37,2,0,4,Good,Moderate,Poor,High,In a Relationship,Frequently,No,No,Moderate,25,On-Campus
+625,22,Computer Science,Female,3.51,3,3,1,Good,Moderate,Average,High,Single,Occasionally,No,No,Low,18,On-Campus
+626,23,Medical,Male,3.43,5,2,3,Good,Moderate,Average,High,In a Relationship,Never,No,No,Moderate,22,Off-Campus
+627,21,Medical,Female,2.96,4,1,3,Good,Moderate,Poor,Low,Married,Never,Yes,No,Moderate,19,Off-Campus
+628,22,Medical,Male,3.66,3,0,1,Average,High,Average,High,Single,Occasionally,Yes,No,Moderate,24,Off-Campus
+629,25,Law,Female,3.46,3,3,2,Good,Low,Good,Moderate,Single,Never,No,No,Low,24,On-Campus
+630,20,Others,Female,3.51,1,1,0,Good,Moderate,Poor,High,Single,Occasionally,No,No,Moderate,23,With Family
+631,18,Others,Male,2.84,0,3,3,Good,Moderate,Poor,Moderate,In a Relationship,Never,No,No,Moderate,16,Off-Campus
+632,20,Engineering,Female,3.46,5,2,1,Good,Low,Average,Moderate,Single,Frequently,No,No,Low,28,With Family
+633,20,Law,Female,3.51,0,2,3,Poor,Low,Average,High,Single,Frequently,No,No,Moderate,17,With Family
+634,28,Computer Science,Female,3.74,5,4,0,Good,High,Average,Moderate,Single,Frequently,No,Yes,Moderate,25,Off-Campus
+635,28,Medical,Female,3.77,1,0,2,Good,Low,Average,Low,In a Relationship,Occasionally,Yes,No,Moderate,17,On-Campus
+636,22,Medical,Female,3.71,3,2,1,Poor,Moderate,Good,Moderate,Married,Never,No,No,Low,28,Off-Campus
+637,18,Medical,Female,3.59,5,1,1,Good,Low,Average,Low,Married,Occasionally,Yes,No,Moderate,29,Off-Campus
+638,21,Engineering,Female,3.07,0,5,1,Average,Low,Average,High,In a Relationship,Never,No,No,Moderate,29,On-Campus
+639,27,Law,Female,3.3,2,3,3,Good,High,Average,High,Single,Never,No,Yes,Low,18,Off-Campus
+640,21,Law,Male,3.45,0,2,1,Good,Moderate,Average,Moderate,Married,Frequently,No,No,Moderate,27,Off-Campus
+641,24,Law,Male,3.44,0,1,1,Good,Low,Poor,Low,In a Relationship,Never,No,No,Low,23,Off-Campus
+642,18,Medical,Male,3.67,4,2,2,Average,High,Average,High,Single,Occasionally,Yes,No,Moderate,27,On-Campus
+643,25,Law,Male,3.58,2,2,2,Good,Low,Average,Moderate,Single,Never,No,No,Low,15,On-Campus
+644,25,Medical,Male,3.33,3,1,3,Good,High,Good,Moderate,In a Relationship,Never,Yes,No,High,17,Off-Campus
+645,19,Law,Female,3.28,3,3,2,Average,Moderate,Average,Moderate,In a Relationship,Occasionally,No,No,Moderate,28,On-Campus
+646,23,Law,Male,3.86,0,5,3,Average,High,Average,Moderate,Single,Never,No,No,Moderate,17,On-Campus
+647,28,Engineering,Female,3.17,1,0,3,Average,High,Good,High,Single,Occasionally,No,No,High,20,Off-Campus
+648,29,Medical,Female,3.44,5,2,0,Good,Low,Average,Moderate,Single,Never,No,No,Moderate,17,Off-Campus
+649,18,Medical,Male,3.2,1,0,1,Good,Moderate,Average,Moderate,Single,Never,No,No,High,27,Off-Campus
+650,21,Business,Female,3.33,0,1,1,Good,Low,Average,High,In a Relationship,Never,No,No,Low,16,Off-Campus
+651,24,Medical,Male,3.48,3,1,4,Good,Moderate,Average,Low,In a Relationship,Never,No,No,Low,26,With Family
+652,20,Law,Female,3.57,1,2,4,Poor,Low,Average,Low,In a Relationship,Never,Yes,No,Moderate,24,On-Campus
+653,27,Business,Female,3.5,4,2,1,Good,Moderate,Average,Moderate,Married,Occasionally,No,No,High,27,Off-Campus
+654,19,Medical,Male,3.21,2,5,4,Good,Low,Good,Moderate,Single,Never,No,No,Low,19,With Family
+655,26,Others,Male,3.55,2,0,0,Average,Low,Average,High,Single,Never,Yes,No,Moderate,17,With Family
+656,25,Engineering,Male,3.72,1,1,3,Poor,Moderate,Poor,Moderate,In a Relationship,Occasionally,No,No,High,23,Off-Campus
+657,18,Law,Male,3.46,2,2,5,Poor,High,Average,High,Single,Frequently,No,No,High,17,On-Campus
+658,25,Medical,Male,3.84,2,3,3,Good,Moderate,Average,Moderate,Single,Never,Yes,No,Moderate,18,Off-Campus
+659,35,Engineering,Male,3.24,3,3,5,Average,High,Good,Moderate,Single,Never,Yes,No,Moderate,16,Off-Campus
+660,33,Medical,Male,3.43,4,0,2,Good,High,Good,High,Single,Occasionally,No,No,Moderate,27,On-Campus
+661,27,Medical,Male,3.33,4,3,0,Average,Low,Average,Moderate,Married,Never,No,No,Moderate,19,Off-Campus
+662,28,Business,Male,3.61,1,1,3,Good,Low,Average,Moderate,Single,Occasionally,Yes,No,Moderate,20,Off-Campus
+663,25,Law,Female,3.7,3,0,5,Average,Low,Average,Moderate,Single,Never,Yes,No,High,16,On-Campus
+664,24,Law,Female,3.16,2,0,5,Average,High,Average,Moderate,Single,Never,No,No,Moderate,21,On-Campus
+665,22,Engineering,Female,3.19,0,2,2,Average,High,Average,Moderate,In a Relationship,Occasionally,No,No,Low,17,Off-Campus
+666,26,Business,Female,3.48,3,5,4,Poor,Low,Average,Moderate,Single,Never,No,No,Moderate,17,Off-Campus
+667,28,Law,Male,3.25,2,2,3,Average,Moderate,Good,High,In a Relationship,Never,No,No,Low,19,On-Campus
+668,18,Law,Female,3.32,3,2,5,Good,Moderate,Average,High,In a Relationship,Never,Yes,No,High,25,Off-Campus
+669,20,Law,Female,3.93,5,3,3,Good,Moderate,Average,Moderate,Married,Occasionally,No,Yes,Moderate,22,On-Campus

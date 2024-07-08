@@ -1,0 +1,1019 @@
+﻿id,Gender,Country,Occupation,family_history,treatment,Growing_Stress,Changes_Habits,Mental_Health_History,Mood_Swings,Work_Interest,Social_Weakness,mental_health_interview
+1,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+2,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+3,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+4,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+5,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+6,Female,Poland,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+7,Female,Australia,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+8,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+9,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+10,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+11,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+12,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+13,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+14,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+15,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+16,Female,United Kingdom,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,Maybe
+17,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+18,Female,South Africa,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+19,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+20,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+21,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+22,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+23,Female,United Kingdom,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+24,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+25,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+26,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+27,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+28,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+29,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+30,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+31,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+32,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+33,Female,Sweden,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+34,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+35,Female,Sweden,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+36,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+37,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+38,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+39,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,Yes
+40,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+41,Female,United Kingdom,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+42,Female,United Kingdom,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+43,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+44,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+45,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+46,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+47,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+48,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+49,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+50,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+51,Female,Australia,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+52,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+53,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+54,Female,New Zealand,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+55,Female,Canada,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+56,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+57,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+58,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,Maybe
+59,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+60,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+61,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+62,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+63,Female,United Kingdom,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+64,Female,Australia,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+65,Female,Netherlands,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+66,Female,Australia,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+67,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+68,Female,United Kingdom,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+69,Female,India,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+70,Female,Canada,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+71,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+72,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+73,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+74,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+75,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+76,Female,United Kingdom,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,Maybe
+77,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+78,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+79,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+80,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+81,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+82,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+83,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+84,Female,United Kingdom,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+85,Female,United Kingdom,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+86,Female,United Kingdom,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+87,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+88,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+89,Female,United Kingdom,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+90,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+91,Female,United Kingdom,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+92,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+93,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+94,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+95,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+96,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+97,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+98,Female,United States,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+99,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+100,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+101,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+102,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+103,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+104,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+105,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+106,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+107,Female,Canada,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+108,Female,United States,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+109,Female,United Kingdom,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+110,Female,United Kingdom,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,Maybe
+111,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+112,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+113,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+114,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+115,Female,Belgium,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+116,Female,Ireland,Corporate,No,No,Yes,No,Yes,Medium,No,Yes,No
+117,Female,United States,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+118,Female,United Kingdom,Corporate,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+119,Female,Ireland,Corporate,Yes,No,Yes,No,Yes,Medium,No,Yes,No
+120,Female,United Kingdom,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Maybe
+121,Female,United States,Corporate,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+122,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+123,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+124,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+125,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+126,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+127,Female,Poland,Student,No,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+128,Female,Australia,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+129,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+130,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+131,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+132,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+133,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+134,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+135,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+136,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+137,Female,United Kingdom,Student,No,No,No,Yes,No,Medium,Maybe,No,Maybe
+138,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+139,Female,South Africa,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+140,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+141,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+142,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+143,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+144,Female,United Kingdom,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+145,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+146,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+147,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+148,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+149,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+150,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+151,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+152,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+153,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+154,Female,Sweden,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+155,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+156,Female,Sweden,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+157,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+158,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+159,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+160,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,Yes
+161,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+162,Female,United Kingdom,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+163,Female,United Kingdom,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+164,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+165,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+166,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+167,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+168,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+169,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+170,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+171,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+172,Female,Australia,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+173,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+174,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+175,Female,New Zealand,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+176,Female,Canada,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+177,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+178,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+179,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,Maybe
+180,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+181,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+182,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+183,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+184,Female,United Kingdom,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+185,Female,Australia,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+186,Female,Netherlands,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+187,Female,Australia,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+188,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+189,Female,United Kingdom,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+190,Female,India,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+191,Female,Canada,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+192,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+193,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+194,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+195,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+196,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+197,Female,United Kingdom,Student,No,No,No,Yes,No,Medium,Maybe,No,Maybe
+198,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+199,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+200,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+201,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+202,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+203,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+204,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+205,Female,United Kingdom,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+206,Female,United Kingdom,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+207,Female,United Kingdom,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+208,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+209,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+210,Female,United Kingdom,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+211,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+212,Female,United Kingdom,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+213,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+214,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+215,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+216,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+217,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+218,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+219,Female,United States,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+220,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+221,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+222,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+223,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+224,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+225,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+226,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+227,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+228,Female,Canada,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+229,Female,United States,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+230,Female,United Kingdom,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+231,Female,United Kingdom,Student,Yes,No,No,Yes,No,Medium,Maybe,No,Maybe
+232,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+233,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+234,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+235,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+236,Female,Belgium,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+237,Female,Ireland,Student,No,No,No,Yes,No,Medium,Maybe,No,No
+238,Female,United States,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+239,Female,United Kingdom,Student,No,Yes,No,Yes,No,Medium,Maybe,No,No
+240,Female,Ireland,Student,Yes,No,No,Yes,No,Medium,Maybe,No,No
+241,Female,United Kingdom,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,Maybe
+242,Female,United States,Student,Yes,Yes,No,Yes,No,Medium,Maybe,No,No
+243,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+244,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+245,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+246,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+247,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+248,Female,Poland,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+249,Female,Australia,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+250,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+251,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+252,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+253,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+254,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+255,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+256,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+257,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+258,Female,United Kingdom,Student,No,No,Yes,Yes,No,Medium,Maybe,No,Maybe
+259,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+260,Female,South Africa,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+261,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+262,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+263,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+264,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+265,Female,United Kingdom,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+266,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+267,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+268,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+269,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+270,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+271,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+272,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+273,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+274,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+275,Female,Sweden,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+276,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+277,Female,Sweden,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+278,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+279,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+280,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+281,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,Yes
+282,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+283,Female,United Kingdom,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+284,Female,United Kingdom,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+285,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+286,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+287,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+288,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+289,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+290,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+291,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+292,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+293,Female,Australia,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+294,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+295,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+296,Female,New Zealand,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+297,Female,Canada,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+298,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+299,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+300,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,Maybe
+301,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+302,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+303,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+304,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+305,Female,United Kingdom,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+306,Female,Australia,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+307,Female,Netherlands,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+308,Female,Australia,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+309,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+310,Female,United Kingdom,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+311,Female,India,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+312,Female,Canada,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+313,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+314,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+315,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+316,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+317,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+318,Female,United Kingdom,Student,No,No,Yes,Yes,No,Medium,Maybe,No,Maybe
+319,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+320,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+321,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+322,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+323,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+324,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+325,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+326,Female,United Kingdom,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+327,Female,United Kingdom,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+328,Female,United Kingdom,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+329,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+330,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+331,Female,United Kingdom,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+332,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+333,Female,United Kingdom,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+334,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+335,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+336,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+337,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+338,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+339,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+340,Female,United States,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+341,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+342,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+343,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+344,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+345,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+346,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+347,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+348,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+349,Female,Canada,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+350,Female,United States,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+351,Female,United Kingdom,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+352,Female,United Kingdom,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,Maybe
+353,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+354,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+355,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+356,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+357,Female,Belgium,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+358,Female,Ireland,Student,No,No,Yes,Yes,No,Medium,Maybe,No,No
+359,Female,United States,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+360,Female,United Kingdom,Student,No,Yes,Yes,Yes,No,Medium,Maybe,No,No
+361,Female,Ireland,Student,Yes,No,Yes,Yes,No,Medium,Maybe,No,No
+362,Female,United Kingdom,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe
+363,Female,United States,Student,Yes,Yes,Yes,Yes,No,Medium,Maybe,No,No
+364,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+365,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+366,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+367,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+368,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+369,Female,Poland,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+370,Female,Australia,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+371,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+372,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+373,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+374,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+375,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+376,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+377,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+378,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+379,Female,United Kingdom,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+380,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+381,Female,South Africa,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+382,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+383,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+384,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+385,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+386,Female,United Kingdom,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+387,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+388,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+389,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+390,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+391,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+392,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+393,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+394,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+395,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+396,Female,Sweden,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+397,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+398,Female,Sweden,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+399,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+400,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+401,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+402,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,Yes
+403,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+404,Female,United Kingdom,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+405,Female,United Kingdom,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+406,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+407,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+408,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+409,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+410,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+411,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+412,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+413,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+414,Female,Australia,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+415,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+416,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+417,Female,New Zealand,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+418,Female,Canada,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+419,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+420,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+421,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+422,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+423,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+424,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+425,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+426,Female,United Kingdom,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+427,Female,Australia,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+428,Female,Netherlands,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+429,Female,Australia,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+430,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+431,Female,United Kingdom,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+432,Female,India,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+433,Female,Canada,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+434,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+435,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+436,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+437,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+438,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+439,Female,United Kingdom,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+440,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+441,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+442,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+443,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+444,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+445,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+446,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+447,Female,United Kingdom,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+448,Female,United Kingdom,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+449,Female,United Kingdom,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+450,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+451,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+452,Female,United Kingdom,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+453,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+454,Female,United Kingdom,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+455,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+456,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+457,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+458,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+459,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+460,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+461,Female,United States,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+462,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+463,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+464,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+465,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+466,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+467,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+468,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+469,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+470,Female,Canada,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+471,Female,United States,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+472,Female,United Kingdom,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+473,Female,United Kingdom,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+474,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+475,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+476,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+477,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+478,Female,Belgium,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+479,Female,Ireland,Business,No,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+480,Female,United States,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+481,Female,United Kingdom,Business,No,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+482,Female,Ireland,Business,Yes,No,Yes,Maybe,No,Low,Maybe,Maybe,No
+483,Female,United Kingdom,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,Maybe
+484,Female,United States,Business,Yes,Yes,Yes,Maybe,No,Low,Maybe,Maybe,No
+485,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+486,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+487,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+488,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+489,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+490,Female,Poland,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+491,Female,Australia,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+492,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+493,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+494,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+495,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+496,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+497,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+498,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+499,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+500,Female,United Kingdom,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,Maybe
+501,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+502,Female,South Africa,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+503,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+504,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+505,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+506,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+507,Female,United Kingdom,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+508,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+509,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+510,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+511,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+512,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+513,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+514,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+515,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+516,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+517,Female,Sweden,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+518,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+519,Female,Sweden,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+520,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+521,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+522,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+523,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,Yes
+524,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+525,Female,United Kingdom,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+526,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+527,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+528,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+529,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+530,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+531,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+532,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+533,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+534,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+535,Female,Australia,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+536,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+537,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+538,Female,New Zealand,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+539,Female,Canada,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+540,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+541,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+542,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,Maybe
+543,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+544,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+545,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+546,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+547,Female,United Kingdom,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+548,Female,Australia,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+549,Female,Netherlands,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+550,Female,Australia,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+551,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+552,Female,United Kingdom,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+553,Female,India,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+554,Female,Canada,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+555,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+556,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+557,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+558,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+559,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+560,Female,United Kingdom,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,Maybe
+561,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+562,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+563,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+564,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+565,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+566,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+567,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+568,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+569,Female,United Kingdom,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+570,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+571,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+572,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+573,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+574,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+575,Female,United Kingdom,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+576,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+577,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+578,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+579,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+580,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+581,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+582,Female,United States,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+583,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+584,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+585,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+586,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+587,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+588,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+589,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+590,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+591,Female,Canada,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+592,Female,United States,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+593,Female,United Kingdom,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+594,Female,United Kingdom,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,Maybe
+595,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+596,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+597,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+598,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+599,Female,Belgium,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+600,Female,Ireland,Student,No,No,Yes,Maybe,Maybe,High,No,Yes,No
+601,Female,United States,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+602,Female,United Kingdom,Student,No,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+603,Female,Ireland,Student,Yes,No,Yes,Maybe,Maybe,High,No,Yes,No
+604,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,Maybe
+605,Female,United States,Student,Yes,Yes,Yes,Maybe,Maybe,High,No,Yes,No
+606,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+607,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+608,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+609,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,Maybe
+610,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+611,Female,Poland,Business,No,Yes,Yes,No,No,High,No,Maybe,Maybe
+612,Female,Australia,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+613,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+614,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+615,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+616,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+617,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+618,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+619,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+620,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+621,Female,United Kingdom,Business,No,No,Yes,No,No,High,No,Maybe,Maybe
+622,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+623,Female,South Africa,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+624,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+625,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+626,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+627,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+628,Female,United Kingdom,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+629,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+630,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+631,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+632,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+633,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+634,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+635,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+636,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+637,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+638,Female,Sweden,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+639,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+640,Female,Sweden,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+641,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+642,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+643,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+644,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,Yes
+645,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+646,Female,United Kingdom,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+647,Female,United Kingdom,Business,Yes,Yes,Yes,No,No,High,No,Maybe,Maybe
+648,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+649,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+650,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+651,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+652,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+653,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+654,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+655,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+656,Female,Australia,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+657,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+658,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+659,Female,New Zealand,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+660,Female,Canada,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+661,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+662,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+663,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,Maybe
+664,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+665,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+666,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+667,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+668,Female,United Kingdom,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+669,Female,Australia,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+670,Female,Netherlands,Business,No,No,Yes,No,No,High,No,Maybe,No
+671,Female,Australia,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+672,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+673,Female,United Kingdom,Business,No,No,Yes,No,No,High,No,Maybe,No
+674,Female,India,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+675,Female,Canada,Business,No,No,Yes,No,No,High,No,Maybe,No
+676,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+677,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+678,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+679,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+680,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+681,Female,United Kingdom,Business,No,No,Yes,No,No,High,No,Maybe,Maybe
+682,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+683,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+684,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+685,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+686,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+687,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+688,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,Maybe
+689,Female,United Kingdom,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+690,Female,United Kingdom,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+691,Female,United Kingdom,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+692,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+693,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+694,Female,United Kingdom,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+695,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,Maybe
+696,Female,United Kingdom,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+697,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+698,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+699,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+700,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+701,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+702,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+703,Female,United States,Business,No,No,Yes,No,No,High,No,Maybe,No
+704,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+705,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+706,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+707,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,Maybe
+708,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+709,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+710,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+711,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+712,Female,Canada,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+713,Female,United States,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+714,Female,United Kingdom,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+715,Female,United Kingdom,Business,Yes,No,Yes,No,No,High,No,Maybe,Maybe
+716,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+717,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+718,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+719,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+720,Female,Belgium,Business,No,No,Yes,No,No,High,No,Maybe,No
+721,Female,Ireland,Business,No,No,Yes,No,No,High,No,Maybe,No
+722,Female,United States,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+723,Female,United Kingdom,Business,No,Yes,Yes,No,No,High,No,Maybe,No
+724,Female,Ireland,Business,Yes,No,Yes,No,No,High,No,Maybe,No
+725,Female,United Kingdom,Business,Yes,Yes,Yes,No,No,High,No,Maybe,Maybe
+726,Female,United States,Business,Yes,Yes,Yes,No,No,High,No,Maybe,No
+727,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+728,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+729,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+730,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+731,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+732,Female,Poland,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+733,Female,Australia,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+734,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+735,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+736,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+737,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+738,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+739,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+740,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+741,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+742,Female,United Kingdom,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,Maybe
+743,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+744,Female,South Africa,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+745,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+746,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+747,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+748,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+749,Female,United Kingdom,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+750,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+751,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+752,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+753,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+754,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+755,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+756,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+757,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+758,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+759,Female,Sweden,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+760,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+761,Female,Sweden,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+762,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+763,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+764,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+765,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,Yes
+766,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+767,Female,United Kingdom,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+768,Female,United Kingdom,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+769,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+770,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+771,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+772,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+773,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+774,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+775,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+776,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+777,Female,Australia,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+778,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+779,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+780,Female,New Zealand,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+781,Female,Canada,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+782,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+783,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+784,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,Maybe
+785,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+786,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+787,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+788,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+789,Female,United Kingdom,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+790,Female,Australia,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+791,Female,Netherlands,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+792,Female,Australia,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+793,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+794,Female,United Kingdom,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+795,Female,India,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+796,Female,Canada,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+797,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+798,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+799,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+800,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+801,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+802,Female,United Kingdom,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,Maybe
+803,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+804,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+805,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+806,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+807,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+808,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+809,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+810,Female,United Kingdom,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+811,Female,United Kingdom,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+812,Female,United Kingdom,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+813,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+814,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+815,Female,United Kingdom,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+816,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+817,Female,United Kingdom,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+818,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+819,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+820,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+821,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+822,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+823,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+824,Female,United States,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+825,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+826,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+827,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+828,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+829,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+830,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+831,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+832,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+833,Female,Canada,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+834,Female,United States,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+835,Female,United Kingdom,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+836,Female,United Kingdom,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,Maybe
+837,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+838,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+839,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+840,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+841,Female,Belgium,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+842,Female,Ireland,Housewife,No,No,Yes,Yes,No,Low,No,Maybe,No
+843,Female,United States,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+844,Female,United Kingdom,Housewife,No,Yes,Yes,Yes,No,Low,No,Maybe,No
+845,Female,Ireland,Housewife,Yes,No,Yes,Yes,No,Low,No,Maybe,No
+846,Female,United Kingdom,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,Maybe
+847,Female,United States,Housewife,Yes,Yes,Yes,Yes,No,Low,No,Maybe,No
+848,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+849,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+850,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+851,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+852,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+853,Female,Poland,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+854,Female,Australia,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+855,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+856,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+857,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+858,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+859,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+860,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+861,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+862,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+863,Female,United Kingdom,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,Maybe
+864,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+865,Female,South Africa,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+866,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+867,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+868,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+869,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+870,Female,United Kingdom,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+871,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+872,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+873,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+874,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+875,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+876,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+877,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+878,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+879,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+880,Female,Sweden,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+881,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+882,Female,Sweden,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+883,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+884,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+885,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+886,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,Yes
+887,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+888,Female,United Kingdom,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+889,Female,United Kingdom,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+890,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+891,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+892,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+893,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+894,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+895,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+896,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+897,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+898,Female,Australia,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+899,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+900,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+901,Female,New Zealand,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+902,Female,Canada,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+903,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+904,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+905,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,Maybe
+906,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+907,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+908,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+909,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+910,Female,United Kingdom,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+911,Female,Australia,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+912,Female,Netherlands,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+913,Female,Australia,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+914,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+915,Female,United Kingdom,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+916,Female,India,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+917,Female,Canada,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+918,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+919,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+920,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+921,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+922,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+923,Female,United Kingdom,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,Maybe
+924,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+925,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+926,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+927,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+928,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+929,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+930,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+931,Female,United Kingdom,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+932,Female,United Kingdom,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+933,Female,United Kingdom,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+934,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+935,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+936,Female,United Kingdom,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+937,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+938,Female,United Kingdom,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+939,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+940,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+941,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+942,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+943,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+944,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+945,Female,United States,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+946,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+947,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+948,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+949,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+950,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+951,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+952,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+953,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+954,Female,Canada,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+955,Female,United States,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+956,Female,United Kingdom,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+957,Female,United Kingdom,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,Maybe
+958,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+959,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+960,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+961,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+962,Female,Belgium,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+963,Female,Ireland,Housewife,No,No,No,No,Maybe,Medium,No,Maybe,No
+964,Female,United States,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+965,Female,United Kingdom,Housewife,No,Yes,No,No,Maybe,Medium,No,Maybe,No
+966,Female,Ireland,Housewife,Yes,No,No,No,Maybe,Medium,No,Maybe,No
+967,Female,United Kingdom,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,Maybe
+968,Female,United States,Housewife,Yes,Yes,No,No,Maybe,Medium,No,Maybe,No
+969,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+970,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+971,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+972,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,Maybe
+973,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+974,Female,Poland,Student,No,Yes,Yes,Maybe,No,Medium,No,No,Maybe
+975,Female,Australia,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+976,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+977,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+978,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+979,Female,United States,Student,Yes,No,Yes,Maybe,No,Medium,No,No,No
+980,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+981,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+982,Female,Canada,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+983,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+984,Female,United Kingdom,Student,No,No,Yes,Maybe,No,Medium,No,No,Maybe
+985,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+986,Female,South Africa,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+987,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+988,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+989,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+990,Female,Canada,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+991,Female,United Kingdom,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+992,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+993,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+994,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+995,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+996,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+997,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+998,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+999,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1000,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+1001,Female,Sweden,Student,Yes,No,Yes,Maybe,No,Medium,No,No,No
+1002,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1003,Female,Sweden,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1004,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1005,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+1006,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,No
+1007,Female,United States,Student,No,No,Yes,Maybe,No,Medium,No,No,Yes
+1008,Female,United States,Student,Yes,No,Yes,Maybe,No,Medium,No,No,No
+1009,Female,United Kingdom,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+1010,Female,United Kingdom,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,Maybe
+1011,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1012,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1013,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1014,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+1015,Female,United States,Student,No,Yes,Yes,Maybe,No,Medium,No,No,No
+1016,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1017,Female,United States,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
+1018,Female,Canada,Student,Yes,Yes,Yes,Maybe,No,Medium,No,No,No
